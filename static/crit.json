@@ -1,0 +1,5514 @@
+{
+    "alphabet": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "W",
+        "X",
+        "Y",
+        "Z"
+    ],
+    "cityList": [
+        {
+            "idx": "A",
+            "cities": [
+                {
+                    "id": 1405,
+                    "name": "阿巴嘎旗",
+                    "pinyin": "abagaqi",
+                    "latitude": 44.022728,
+                    "longitude": 114.970618
+                },
+                {
+                    "id": 1905,
+                    "name": "阿坝藏族羌族自治州",
+                    "pinyin": "abazangzuqiangzuzizhizhou",
+                    "latitude": 31.899792,
+                    "longitude": 102.221374
+                },
+                {
+                    "id": 1398,
+                    "name": "阿尔山市",
+                    "pinyin": "aershan",
+                    "latitude": 47.177,
+                    "longitude": 119.943656
+                },
+                {
+                    "id": 1057,
+                    "name": "阿克苏市",
+                    "pinyin": "akesu",
+                    "latitude": 41.16763,
+                    "longitude": 80.26338
+                },
+                {
+                    "id": 2446,
+                    "name": "阿克苏地区",
+                    "pinyin": "akesudiqu",
+                    "latitude": 41.170712,
+                    "longitude": 80.265068
+                },
+                {
+                    "id": 327,
+                    "name": "阿拉尔市",
+                    "pinyin": "alaer",
+                    "latitude": 40.547981,
+                    "longitude": 81.28067
+                },
+                {
+                    "id": 2434,
+                    "name": "阿拉山口市",
+                    "pinyin": "alashankou",
+                    "latitude": 45.170047,
+                    "longitude": 82.567941
+                },
+                {
+                    "id": 1415,
+                    "name": "阿拉善盟",
+                    "pinyin": "alashanmeng",
+                    "latitude": 38.844814,
+                    "longitude": 105.706422
+                },
+                {
+                    "id": 1417,
+                    "name": "阿拉善右旗",
+                    "pinyin": "alashanyouqi",
+                    "latitude": 39.21159,
+                    "longitude": 101.671984
+                },
+                {
+                    "id": 1416,
+                    "name": "阿拉善左旗",
+                    "pinyin": "alashanzuoqi",
+                    "latitude": 38.844842,
+                    "longitude": 105.705529
+                },
+                {
+                    "id": 2499,
+                    "name": "阿勒泰市",
+                    "pinyin": "aletai",
+                    "latitude": 47.848911,
+                    "longitude": 88.138743
+                },
+                {
+                    "id": 2498,
+                    "name": "阿勒泰地区",
+                    "pinyin": "aletaidiqu",
+                    "latitude": 47.848393,
+                    "longitude": 88.13963
+                },
+                {
+                    "id": 2188,
+                    "name": "阿里地区",
+                    "pinyin": "alidiqu",
+                    "latitude": 30.40051,
+                    "longitude": 81.1454
+                },
+                {
+                    "id": 1350,
+                    "name": "阿鲁科尔沁旗",
+                    "pinyin": "alukeerqinqi",
+                    "latitude": 43.87877,
+                    "longitude": 120.094969
+                },
+                {
+                    "id": 1510,
+                    "name": "安达市",
+                    "pinyin": "anda",
+                    "latitude": 46.410614,
+                    "longitude": 125.329926
+                },
+                {
+                    "id": 1216,
+                    "name": "安国市",
+                    "pinyin": "anguo",
+                    "latitude": 38.421367,
+                    "longitude": 115.33141
+                },
+                {
+                    "id": 272,
+                    "name": "安康市",
+                    "pinyin": "ankang",
+                    "latitude": 32.68486,
+                    "longitude": 109.02932
+                },
+                {
+                    "id": 729,
+                    "name": "安陆市",
+                    "pinyin": "anlu",
+                    "latitude": 31.255541,
+                    "longitude": 113.689133
+                },
+                {
+                    "id": 257,
+                    "name": "安宁市",
+                    "pinyin": "anning",
+                    "latitude": 24.91954,
+                    "longitude": 102.477997
+                },
+                {
+                    "id": 70,
+                    "name": "安庆市",
+                    "pinyin": "anqing",
+                    "latitude": 30.54294,
+                    "longitude": 117.063538
+                },
+                {
+                    "id": 963,
+                    "name": "安丘市",
+                    "pinyin": "anqiu",
+                    "latitude": 36.47842,
+                    "longitude": 119.217842
+                },
+                {
+                    "id": 2241,
+                    "name": "安塞区",
+                    "pinyin": "ansai",
+                    "latitude": 36.86441,
+                    "longitude": 109.325341
+                },
+                {
+                    "id": 96,
+                    "name": "鞍山市",
+                    "pinyin": "anshan",
+                    "latitude": 41.107769,
+                    "longitude": 122.994598
+                },
+                {
+                    "id": 273,
+                    "name": "安顺市",
+                    "pinyin": "anshun",
+                    "latitude": 26.25367,
+                    "longitude": 105.946198
+                },
+                {
+                    "id": 261,
+                    "name": "安阳市",
+                    "pinyin": "anyang",
+                    "latitude": 36.09771,
+                    "longitude": 114.393097
+                },
+                {
+                    "id": 1358,
+                    "name": "敖汉旗",
+                    "pinyin": "aohanqi",
+                    "latitude": 42.287012,
+                    "longitude": 119.906486
+                },
+                {
+                    "id": 216,
+                    "name": "澳门特别行政区",
+                    "pinyin": "aomen",
+                    "latitude": 22.186834,
+                    "longitude": 113.54303
+                },
+                {
+                    "id": 1169,
+                    "name": "阿荣旗",
+                    "pinyin": "arongqi",
+                    "latitude": 48.130503,
+                    "longitude": 123.464615
+                },
+                {
+                    "id": 2455,
+                    "name": "阿图什市",
+                    "pinyin": "atushi",
+                    "latitude": 39.712898,
+                    "longitude": 76.173939
+                }
+            ]
+        },
+        {
+            "idx": "B",
+            "cities": [
+                {
+                    "id": 223,
+                    "name": "白城市",
+                    "pinyin": "baicheng",
+                    "latitude": 45.619598,
+                    "longitude": 122.838707
+                },
+                {
+                    "id": 156,
+                    "name": "百色市",
+                    "pinyin": "baise",
+                    "latitude": 23.902161,
+                    "longitude": 106.618378
+                },
+                {
+                    "id": 397,
+                    "name": "白山市",
+                    "pinyin": "baishan",
+                    "latitude": 41.9408,
+                    "longitude": 126.424431
+                },
+                {
+                    "id": 522,
+                    "name": "白银市",
+                    "pinyin": "baiyin",
+                    "latitude": 36.544701,
+                    "longitude": 104.137733
+                },
+                {
+                    "id": 1352,
+                    "name": "巴林右旗",
+                    "pinyin": "balinyouqi",
+                    "latitude": 43.528963,
+                    "longitude": 118.678347
+                },
+                {
+                    "id": 1351,
+                    "name": "巴林左旗",
+                    "pinyin": "balinzuoqi",
+                    "latitude": 43.980715,
+                    "longitude": 119.391737
+                },
+                {
+                    "id": 95,
+                    "name": "保定市",
+                    "pinyin": "baoding",
+                    "latitude": 38.873959,
+                    "longitude": 115.464592
+                },
+                {
+                    "id": 244,
+                    "name": "宝鸡市",
+                    "pinyin": "baoji",
+                    "latitude": 34.361938,
+                    "longitude": 107.23732
+                },
+                {
+                    "id": 264,
+                    "name": "保山市",
+                    "pinyin": "baoshan",
+                    "latitude": 25.112049,
+                    "longitude": 99.161812
+                },
+                {
+                    "id": 68,
+                    "name": "包头市",
+                    "pinyin": "baotou",
+                    "latitude": 40.65781,
+                    "longitude": 109.84021
+                },
+                {
+                    "id": 914,
+                    "name": "巴彦淖尔市",
+                    "pinyin": "bayannaoer",
+                    "latitude": 40.743172,
+                    "longitude": 107.387733
+                },
+                {
+                    "id": 2437,
+                    "name": "巴音郭楞蒙古自治州",
+                    "pinyin": "bayinguolengmengguzizhizhou",
+                    "latitude": 41.765086,
+                    "longitude": 86.147471
+                },
+                {
+                    "id": 317,
+                    "name": "巴中市",
+                    "pinyin": "bazhong",
+                    "latitude": 31.867149,
+                    "longitude": 106.74733
+                },
+                {
+                    "id": 596,
+                    "name": "霸州市",
+                    "pinyin": "bazhou",
+                    "latitude": 39.12709,
+                    "longitude": 116.391342
+                },
+                {
+                    "id": 705,
+                    "name": "北安市",
+                    "pinyin": "beian",
+                    "latitude": 48.241459,
+                    "longitude": 126.491081
+                },
+                {
+                    "id": 290,
+                    "name": "北海市",
+                    "pinyin": "beihai",
+                    "latitude": 21.481119,
+                    "longitude": 109.120079
+                },
+                {
+                    "id": 3,
+                    "name": "北京市",
+                    "pinyin": "beijing",
+                    "latitude": 39.90469,
+                    "longitude": 116.407173
+                },
+                {
+                    "id": 566,
+                    "name": "北流市",
+                    "pinyin": "beiliu",
+                    "latitude": 22.70837,
+                    "longitude": 110.354263
+                },
+                {
+                    "id": 1443,
+                    "name": "北票市",
+                    "pinyin": "beipiao",
+                    "latitude": 41.803286,
+                    "longitude": 120.766951
+                },
+                {
+                    "id": 5894,
+                    "name": "北屯市",
+                    "pinyin": "beitun",
+                    "latitude": 47.353177,
+                    "longitude": 87.824932
+                },
+                {
+                    "id": 1432,
+                    "name": "北镇市",
+                    "pinyin": "beizhen",
+                    "latitude": 41.598764,
+                    "longitude": 121.795962
+                },
+                {
+                    "id": 75,
+                    "name": "蚌埠市",
+                    "pinyin": "bengbu",
+                    "latitude": 32.915482,
+                    "longitude": 117.38932
+                },
+                {
+                    "id": 336,
+                    "name": "本溪市",
+                    "pinyin": "benxi",
+                    "latitude": 41.294128,
+                    "longitude": 123.766861
+                },
+                {
+                    "id": 136,
+                    "name": "毕节市",
+                    "pinyin": "bijie",
+                    "latitude": 27.29847,
+                    "longitude": 105.305038
+                },
+                {
+                    "id": 134,
+                    "name": "滨州市",
+                    "pinyin": "binzhou",
+                    "latitude": 37.382111,
+                    "longitude": 117.972794
+                },
+                {
+                    "id": 2432,
+                    "name": "博尔塔拉蒙古自治州",
+                    "pinyin": "boertalamengguzizhizhou",
+                    "latitude": 44.903258,
+                    "longitude": 82.074778
+                },
+                {
+                    "id": 2433,
+                    "name": "博乐市",
+                    "pinyin": "bole",
+                    "latitude": 44.903087,
+                    "longitude": 82.072237
+                },
+                {
+                    "id": 367,
+                    "name": "泊头市",
+                    "pinyin": "botou",
+                    "latitude": 38.083641,
+                    "longitude": 116.578278
+                },
+                {
+                    "id": 313,
+                    "name": "亳州市",
+                    "pinyin": "bozhou",
+                    "latitude": 33.844608,
+                    "longitude": 115.779312
+                }
+            ]
+        },
+        {
+            "idx": "C",
+            "cities": [
+                {
+                    "id": 175,
+                    "name": "沧州市",
+                    "pinyin": "cangzhou",
+                    "latitude": 38.304409,
+                    "longitude": 116.838692
+                },
+                {
+                    "id": 1792,
+                    "name": "岑溪市",
+                    "pinyin": "cenxi",
+                    "latitude": 22.918406,
+                    "longitude": 110.998114
+                },
+                {
+                    "id": 1394,
+                    "name": "察哈尔右翼后旗",
+                    "pinyin": "chahaeryouyihouqi",
+                    "latitude": 41.447213,
+                    "longitude": 113.1906
+                },
+                {
+                    "id": 1392,
+                    "name": "察哈尔右翼前旗",
+                    "pinyin": "chahaeryouyiqianqi",
+                    "latitude": 40.786859,
+                    "longitude": 113.211958
+                },
+                {
+                    "id": 1393,
+                    "name": "察哈尔右翼中旗",
+                    "pinyin": "chahaeryouyizhongqi",
+                    "latitude": 41.274212,
+                    "longitude": 112.633563
+                },
+                {
+                    "id": 1576,
+                    "name": "柴桑区",
+                    "pinyin": "chaisang",
+                    "latitude": 29.610264,
+                    "longitude": 115.892977
+                },
+                {
+                    "id": 12,
+                    "name": "长春市",
+                    "pinyin": "changchun",
+                    "latitude": 43.816021,
+                    "longitude": 125.32357
+                },
+                {
+                    "id": 120,
+                    "name": "常德市",
+                    "pinyin": "changde",
+                    "latitude": 29.03158,
+                    "longitude": 111.69854
+                },
+                {
+                    "id": 2151,
+                    "name": "昌都市",
+                    "pinyin": "changdu",
+                    "latitude": 31.136875,
+                    "longitude": 97.178452
+                },
+                {
+                    "id": 641,
+                    "name": "长葛市",
+                    "pinyin": "changge",
+                    "latitude": 34.216721,
+                    "longitude": 113.768272
+                },
+                {
+                    "id": 267,
+                    "name": "昌吉市",
+                    "pinyin": "changji",
+                    "latitude": 44.01437,
+                    "longitude": 87.267487
+                },
+                {
+                    "id": 2425,
+                    "name": "昌吉回族自治州",
+                    "pinyin": "changjihuizuzizhizhou",
+                    "latitude": 44.014577,
+                    "longitude": 87.304012
+                },
+                {
+                    "id": 758,
+                    "name": "常宁市",
+                    "pinyin": "changning",
+                    "latitude": 26.420931,
+                    "longitude": 112.399918
+                },
+                {
+                    "id": 21,
+                    "name": "长沙市",
+                    "pinyin": "changsha",
+                    "latitude": 28.227779,
+                    "longitude": 112.938858
+                },
+                {
+                    "id": 355,
+                    "name": "常熟市",
+                    "pinyin": "changshu",
+                    "latitude": 31.65382,
+                    "longitude": 120.752373
+                },
+                {
+                    "id": 959,
+                    "name": "昌邑市",
+                    "pinyin": "changyi",
+                    "latitude": 36.858841,
+                    "longitude": 119.398621
+                },
+                {
+                    "id": 237,
+                    "name": "长治市",
+                    "pinyin": "changzhi",
+                    "latitude": 36.195808,
+                    "longitude": 113.116493
+                },
+                {
+                    "id": 59,
+                    "name": "常州市",
+                    "pinyin": "changzhou",
+                    "latitude": 31.81072,
+                    "longitude": 119.973648
+                },
+                {
+                    "id": 238,
+                    "name": "巢湖市",
+                    "pinyin": "chaohu",
+                    "latitude": 31.623289,
+                    "longitude": 117.889374
+                },
+                {
+                    "id": 360,
+                    "name": "朝阳市",
+                    "pinyin": "chaoyang",
+                    "latitude": 41.573471,
+                    "longitude": 120.450798
+                },
+                {
+                    "id": 235,
+                    "name": "潮州市",
+                    "pinyin": "chaozhou",
+                    "latitude": 23.6567,
+                    "longitude": 116.622963
+                },
+                {
+                    "id": 1375,
+                    "name": "陈巴尔虎旗",
+                    "pinyin": "chenbaerhuqi",
+                    "latitude": 49.328422,
+                    "longitude": 119.437609
+                },
+                {
+                    "id": 172,
+                    "name": "承德市",
+                    "pinyin": "chengde",
+                    "latitude": 40.9515,
+                    "longitude": 117.963402
+                },
+                {
+                    "id": 14,
+                    "name": "成都市",
+                    "pinyin": "chengdu",
+                    "latitude": 30.5702,
+                    "longitude": 104.064758
+                },
+                {
+                    "id": 178,
+                    "name": "郴州市",
+                    "pinyin": "chenzhou",
+                    "latitude": 25.77063,
+                    "longitude": 113.014847
+                },
+                {
+                    "id": 740,
+                    "name": "赤壁市",
+                    "pinyin": "chibi",
+                    "latitude": 29.72476,
+                    "longitude": 113.900543
+                },
+                {
+                    "id": 337,
+                    "name": "赤峰市",
+                    "pinyin": "chifeng",
+                    "latitude": 42.258598,
+                    "longitude": 118.888939
+                },
+                {
+                    "id": 1970,
+                    "name": "赤水市",
+                    "pinyin": "chishui",
+                    "latitude": 28.587057,
+                    "longitude": 105.698116
+                },
+                {
+                    "id": 246,
+                    "name": "池州市",
+                    "pinyin": "chizhou",
+                    "latitude": 30.66469,
+                    "longitude": 117.491417
+                },
+                {
+                    "id": 1010,
+                    "name": "崇明区",
+                    "pinyin": "chongming",
+                    "latitude": 31.6229,
+                    "longitude": 121.397301
+                },
+                {
+                    "id": 44,
+                    "name": "重庆市",
+                    "pinyin": "chongqing",
+                    "latitude": 29.564711,
+                    "longitude": 106.550728
+                },
+                {
+                    "id": 1037,
+                    "name": "崇州市",
+                    "pinyin": "chongzhou",
+                    "latitude": 30.630211,
+                    "longitude": 103.67289
+                },
+                {
+                    "id": 289,
+                    "name": "崇左市",
+                    "pinyin": "chongzuo",
+                    "latitude": 22.37895,
+                    "longitude": 107.364853
+                },
+                {
+                    "id": 279,
+                    "name": "楚雄市",
+                    "pinyin": "chuxiong",
+                    "latitude": 25.032881,
+                    "longitude": 101.545822
+                },
+                {
+                    "id": 2071,
+                    "name": "楚雄彝族自治州",
+                    "pinyin": "chuxiongyizuzizhizhou",
+                    "latitude": 25.041988,
+                    "longitude": 101.546046
+                },
+                {
+                    "id": 83,
+                    "name": "滁州市",
+                    "pinyin": "chuzhou",
+                    "latitude": 32.301811,
+                    "longitude": 118.316833
+                },
+                {
+                    "id": 1075,
+                    "name": "慈溪市",
+                    "pinyin": "cixi",
+                    "latitude": 30.16964,
+                    "longitude": 121.266472
+                }
+            ]
+        },
+        {
+            "idx": "D",
+            "cities": [
+                {
+                    "id": 813,
+                    "name": "大安市",
+                    "pinyin": "daan",
+                    "latitude": 45.507111,
+                    "longitude": 124.292519
+                },
+                {
+                    "id": 2400,
+                    "name": "大柴旦行政委员会",
+                    "pinyin": "dachaidanxingzhengweiyuanhui",
+                    "latitude": 37.85265,
+                    "longitude": 95.36545
+                },
+                {
+                    "id": 1349,
+                    "name": "达尔罕茂明安联合旗",
+                    "pinyin": "daerhanmaominganlianheqi",
+                    "latitude": 41.702836,
+                    "longitude": 110.438452
+                },
+                {
+                    "id": 919,
+                    "name": "达拉特旗",
+                    "pinyin": "dalateqi",
+                    "latitude": 40.400162,
+                    "longitude": 110.032928
+                },
+                {
+                    "id": 174,
+                    "name": "大理市",
+                    "pinyin": "dali",
+                    "latitude": 25.591579,
+                    "longitude": 100.229759
+                },
+                {
+                    "id": 20,
+                    "name": "大连市",
+                    "pinyin": "dalian",
+                    "latitude": 38.913689,
+                    "longitude": 121.614761
+                },
+                {
+                    "id": 2100,
+                    "name": "大理白族自治州",
+                    "pinyin": "dalibaizuzizhizhou",
+                    "latitude": 25.592765,
+                    "longitude": 100.240037
+                },
+                {
+                    "id": 145,
+                    "name": "丹东市",
+                    "pinyin": "dandong",
+                    "latitude": 39.999802,
+                    "longitude": 124.35601
+                },
+                {
+                    "id": 746,
+                    "name": "当阳市",
+                    "pinyin": "dangyang",
+                    "latitude": 30.82118,
+                    "longitude": 111.78833
+                },
+                {
+                    "id": 744,
+                    "name": "丹江口市",
+                    "pinyin": "danjiangkou",
+                    "latitude": 32.540401,
+                    "longitude": 111.513222
+                },
+                {
+                    "id": 349,
+                    "name": "丹阳市",
+                    "pinyin": "danyang",
+                    "latitude": 32.009449,
+                    "longitude": 119.606941
+                },
+                {
+                    "id": 286,
+                    "name": "儋州市",
+                    "pinyin": "danzhou",
+                    "latitude": 19.520929,
+                    "longitude": 109.580688
+                },
+                {
+                    "id": 86,
+                    "name": "大庆市",
+                    "pinyin": "daqing",
+                    "latitude": 46.587582,
+                    "longitude": 125.103073
+                },
+                {
+                    "id": 901,
+                    "name": "大石桥市",
+                    "pinyin": "dashiqiao",
+                    "latitude": 40.644482,
+                    "longitude": 122.509171
+                },
+                {
+                    "id": 169,
+                    "name": "大同市",
+                    "pinyin": "datong",
+                    "latitude": 40.07637,
+                    "longitude": 113.300011
+                },
+                {
+                    "id": 1511,
+                    "name": "大兴安岭地区",
+                    "pinyin": "daxinganlingdiqu",
+                    "latitude": 51.672255,
+                    "longitude": 124.398555
+                },
+                {
+                    "id": 712,
+                    "name": "大冶市",
+                    "pinyin": "daye",
+                    "latitude": 30.09551,
+                    "longitude": 114.979767
+                },
+                {
+                    "id": 247,
+                    "name": "达州市",
+                    "pinyin": "dazhou",
+                    "latitude": 31.208639,
+                    "longitude": 107.467911
+                },
+                {
+                    "id": 2111,
+                    "name": "德宏傣族景颇族自治州",
+                    "pinyin": "dehongdaizujingpozuzizhizhou",
+                    "latitude": 24.436694,
+                    "longitude": 98.578363
+                },
+                {
+                    "id": 818,
+                    "name": "德惠市",
+                    "pinyin": "dehui",
+                    "latitude": 44.53709,
+                    "longitude": 125.705582
+                },
+                {
+                    "id": 2396,
+                    "name": "德令哈市",
+                    "pinyin": "delingha",
+                    "latitude": 37.374555,
+                    "longitude": 97.370143
+                },
+                {
+                    "id": 630,
+                    "name": "登封市",
+                    "pinyin": "dengfeng",
+                    "latitude": 34.45348,
+                    "longitude": 113.050278
+                },
+                {
+                    "id": 1436,
+                    "name": "灯塔市",
+                    "pinyin": "dengta",
+                    "latitude": 41.427836,
+                    "longitude": 123.325864
+                },
+                {
+                    "id": 621,
+                    "name": "邓州市",
+                    "pinyin": "dengzhou",
+                    "latitude": 32.687771,
+                    "longitude": 112.087357
+                },
+                {
+                    "id": 1622,
+                    "name": "德兴市",
+                    "pinyin": "dexing",
+                    "latitude": 28.945034,
+                    "longitude": 117.578732
+                },
+                {
+                    "id": 131,
+                    "name": "德阳市",
+                    "pinyin": "deyang",
+                    "latitude": 31.126789,
+                    "longitude": 104.397903
+                },
+                {
+                    "id": 224,
+                    "name": "德州市",
+                    "pinyin": "dezhou",
+                    "latitude": 37.435501,
+                    "longitude": 116.359268
+                },
+                {
+                    "id": 913,
+                    "name": "调兵山市",
+                    "pinyin": "diaobingshan",
+                    "latitude": 42.467548,
+                    "longitude": 123.566902
+                },
+                {
+                    "id": 2323,
+                    "name": "定西市",
+                    "pinyin": "dingxi",
+                    "latitude": 35.579578,
+                    "longitude": 104.626294
+                },
+                {
+                    "id": 587,
+                    "name": "定州市",
+                    "pinyin": "dingzhou",
+                    "latitude": 38.516258,
+                    "longitude": 114.99025
+                },
+                {
+                    "id": 2122,
+                    "name": "迪庆藏族自治州",
+                    "pinyin": "diqingzangzuzizhizhou",
+                    "latitude": 27.826853,
+                    "longitude": 99.706463
+                },
+                {
+                    "id": 583,
+                    "name": "东方市",
+                    "pinyin": "dongfang",
+                    "latitude": 19.09614,
+                    "longitude": 108.653671
+                },
+                {
+                    "id": 902,
+                    "name": "东港市",
+                    "pinyin": "donggang",
+                    "latitude": 39.861721,
+                    "longitude": 124.152092
+                },
+                {
+                    "id": 51,
+                    "name": "东莞市",
+                    "pinyin": "dongguan",
+                    "latitude": 23.020691,
+                    "longitude": 113.751808
+                },
+                {
+                    "id": 1497,
+                    "name": "东宁市",
+                    "pinyin": "dongning",
+                    "latitude": 44.063578,
+                    "longitude": 131.125296
+                },
+                {
+                    "id": 834,
+                    "name": "东台市",
+                    "pinyin": "dongtai",
+                    "latitude": 32.866951,
+                    "longitude": 120.320503
+                },
+                {
+                    "id": 1408,
+                    "name": "东乌珠穆沁旗",
+                    "pinyin": "dongwuzhumuqinqi",
+                    "latitude": 45.510307,
+                    "longitude": 116.980022
+                },
+                {
+                    "id": 1796,
+                    "name": "东兴市",
+                    "pinyin": "dongxing",
+                    "latitude": 21.541172,
+                    "longitude": 107.97017
+                },
+                {
+                    "id": 1083,
+                    "name": "东阳市",
+                    "pinyin": "dongyang",
+                    "latitude": 29.289459,
+                    "longitude": 120.241913
+                },
+                {
+                    "id": 132,
+                    "name": "东营市",
+                    "pinyin": "dongying",
+                    "latitude": 37.433651,
+                    "longitude": 118.67466
+                },
+                {
+                    "id": 428,
+                    "name": "都江堰市",
+                    "pinyin": "dujiangyan",
+                    "latitude": 30.988371,
+                    "longitude": 103.646622
+                },
+                {
+                    "id": 806,
+                    "name": "敦化市",
+                    "pinyin": "dunhua",
+                    "latitude": 43.372711,
+                    "longitude": 128.232056
+                },
+                {
+                    "id": 2315,
+                    "name": "敦煌市",
+                    "pinyin": "dunhuang",
+                    "latitude": 40.141119,
+                    "longitude": 94.664279
+                },
+                {
+                    "id": 576,
+                    "name": "都匀市",
+                    "pinyin": "duyun",
+                    "latitude": 26.25979,
+                    "longitude": 107.518669
+                }
+            ]
+        },
+        {
+            "idx": "E",
+            "cities": [
+                {
+                    "id": 395,
+                    "name": "鄂尔多斯市",
+                    "pinyin": "eerduosi",
+                    "latitude": 39.608452,
+                    "longitude": 109.780869
+                },
+                {
+                    "id": 1379,
+                    "name": "额尔古纳市",
+                    "pinyin": "eerguna",
+                    "latitude": 50.2439,
+                    "longitude": 120.178636
+                },
+                {
+                    "id": 1418,
+                    "name": "额济纳旗",
+                    "pinyin": "ejinaqi",
+                    "latitude": 41.958813,
+                    "longitude": 101.06944
+                },
+                {
+                    "id": 1373,
+                    "name": "鄂伦春自治旗",
+                    "pinyin": "elunchunzizhiqi",
+                    "latitude": 50.590177,
+                    "longitude": 123.725684
+                },
+                {
+                    "id": 213,
+                    "name": "峨眉山市",
+                    "pinyin": "emeishan",
+                    "latitude": 29.60125,
+                    "longitude": 103.484467
+                },
+                {
+                    "id": 555,
+                    "name": "恩平市",
+                    "pinyin": "enping",
+                    "latitude": 22.18294,
+                    "longitude": 112.305321
+                },
+                {
+                    "id": 229,
+                    "name": "恩施市",
+                    "pinyin": "enshi",
+                    "latitude": 30.29504,
+                    "longitude": 109.479179
+                },
+                {
+                    "id": 1691,
+                    "name": "恩施土家族苗族自治州",
+                    "pinyin": "enshitujiazumiaozuzizhizhou",
+                    "latitude": 30.283114,
+                    "longitude": 109.48699
+                },
+                {
+                    "id": 1404,
+                    "name": "二连浩特市",
+                    "pinyin": "erlianhaote",
+                    "latitude": 43.652895,
+                    "longitude": 111.97981
+                },
+                {
+                    "id": 1367,
+                    "name": "鄂托克旗",
+                    "pinyin": "etuokeqi",
+                    "latitude": 39.095752,
+                    "longitude": 107.982604
+                },
+                {
+                    "id": 1366,
+                    "name": "鄂托克前旗",
+                    "pinyin": "etuokeqianqi",
+                    "latitude": 38.183257,
+                    "longitude": 107.48172
+                },
+                {
+                    "id": 1374,
+                    "name": "鄂温克族自治旗",
+                    "pinyin": "ewenkezuzizhiqi",
+                    "latitude": 49.143293,
+                    "longitude": 119.754041
+                },
+                {
+                    "id": 184,
+                    "name": "鄂州市",
+                    "pinyin": "ezhou",
+                    "latitude": 30.39085,
+                    "longitude": 114.894951
+                }
+            ]
+        },
+        {
+            "idx": "F",
+            "cities": [
+                {
+                    "id": 1794,
+                    "name": "防城港市",
+                    "pinyin": "fangchenggang",
+                    "latitude": 21.6138,
+                    "longitude": 108.33799
+                },
+                {
+                    "id": 935,
+                    "name": "肥城市",
+                    "pinyin": "feicheng",
+                    "latitude": 36.182449,
+                    "longitude": 116.769173
+                },
+                {
+                    "id": 871,
+                    "name": "丰城市",
+                    "pinyin": "fengcheng",
+                    "latitude": 28.159201,
+                    "longitude": 115.77121
+                },
+                {
+                    "id": 904,
+                    "name": "凤城市",
+                    "pinyin": "fengcheng",
+                    "latitude": 40.452789,
+                    "longitude": 124.066048
+                },
+                {
+                    "id": 1396,
+                    "name": "丰镇市",
+                    "pinyin": "fengzhen",
+                    "latitude": 40.437534,
+                    "longitude": 113.163462
+                },
+                {
+                    "id": 1342,
+                    "name": "汾阳市",
+                    "pinyin": "fenyang",
+                    "latitude": 37.267742,
+                    "longitude": 111.785273
+                },
+                {
+                    "id": 24,
+                    "name": "佛山市",
+                    "pinyin": "foshan",
+                    "latitude": 23.021851,
+                    "longitude": 113.121918
+                },
+                {
+                    "id": 500,
+                    "name": "福安市",
+                    "pinyin": "fuan",
+                    "latitude": 27.087971,
+                    "longitude": 119.647682
+                },
+                {
+                    "id": 504,
+                    "name": "福鼎市",
+                    "pinyin": "fuding",
+                    "latitude": 27.32436,
+                    "longitude": 120.216713
+                },
+                {
+                    "id": 708,
+                    "name": "富锦市",
+                    "pinyin": "fujin",
+                    "latitude": 47.250221,
+                    "longitude": 132.037277
+                },
+                {
+                    "id": 2426,
+                    "name": "阜康市",
+                    "pinyin": "fukang",
+                    "latitude": 44.152153,
+                    "longitude": 87.98384
+                },
+                {
+                    "id": 497,
+                    "name": "福清市",
+                    "pinyin": "fuqing",
+                    "latitude": 25.72024,
+                    "longitude": 119.384109
+                },
+                {
+                    "id": 2011,
+                    "name": "福泉市",
+                    "pinyin": "fuquan",
+                    "latitude": 26.702508,
+                    "longitude": 107.513508
+                },
+                {
+                    "id": 108,
+                    "name": "抚顺市",
+                    "pinyin": "fushun",
+                    "latitude": 41.879711,
+                    "longitude": 123.957222
+                },
+                {
+                    "id": 118,
+                    "name": "阜新市",
+                    "pinyin": "fuxin",
+                    "latitude": 42.02166,
+                    "longitude": 121.670113
+                },
+                {
+                    "id": 195,
+                    "name": "阜阳市",
+                    "pinyin": "fuyang",
+                    "latitude": 32.889629,
+                    "longitude": 115.814949
+                },
+                {
+                    "id": 821,
+                    "name": "扶余市",
+                    "pinyin": "fuyu",
+                    "latitude": 44.990139,
+                    "longitude": 126.049721
+                },
+                {
+                    "id": 1494,
+                    "name": "抚远市",
+                    "pinyin": "fuyuan",
+                    "latitude": 48.364707,
+                    "longitude": 134.294501
+                },
+                {
+                    "id": 9,
+                    "name": "福州市",
+                    "pinyin": "fuzhou",
+                    "latitude": 26.074209,
+                    "longitude": 119.296471
+                },
+                {
+                    "id": 219,
+                    "name": "抚州市",
+                    "pinyin": "fuzhou",
+                    "latitude": 27.947809,
+                    "longitude": 116.358093
+                }
+            ]
+        },
+        {
+            "idx": "G",
+            "cities": [
+                {
+                    "id": 906,
+                    "name": "盖州市",
+                    "pinyin": "gaizhou",
+                    "latitude": 40.400532,
+                    "longitude": 122.348801
+                },
+                {
+                    "id": 2347,
+                    "name": "甘南藏族自治州",
+                    "pinyin": "gannanzangzuzizhizhou",
+                    "latitude": 34.986354,
+                    "longitude": 102.911008
+                },
+                {
+                    "id": 129,
+                    "name": "赣州市",
+                    "pinyin": "ganzhou",
+                    "latitude": 25.831091,
+                    "longitude": 114.934761
+                },
+                {
+                    "id": 1919,
+                    "name": "甘孜藏族自治州",
+                    "pinyin": "ganzizangzuzizhizhou",
+                    "latitude": 30.04932,
+                    "longitude": 101.96254
+                },
+                {
+                    "id": 874,
+                    "name": "高安市",
+                    "pinyin": "gaoan",
+                    "latitude": 28.41729,
+                    "longitude": 115.375618
+                },
+                {
+                    "id": 594,
+                    "name": "高碑店市",
+                    "pinyin": "gaobeidian",
+                    "latitude": 39.32658,
+                    "longitude": 115.873734
+                },
+                {
+                    "id": 929,
+                    "name": "高密市",
+                    "pinyin": "gaomi",
+                    "latitude": 36.382568,
+                    "longitude": 119.755676
+                },
+                {
+                    "id": 999,
+                    "name": "高平市",
+                    "pinyin": "gaoping",
+                    "latitude": 35.798069,
+                    "longitude": 112.923576
+                },
+                {
+                    "id": 854,
+                    "name": "高邮市",
+                    "pinyin": "gaoyou",
+                    "latitude": 32.78112,
+                    "longitude": 119.455582
+                },
+                {
+                    "id": 551,
+                    "name": "高州市",
+                    "pinyin": "gaozhou",
+                    "latitude": 21.918119,
+                    "longitude": 110.853378
+                },
+                {
+                    "id": 922,
+                    "name": "格尔木市",
+                    "pinyin": "geermu",
+                    "latitude": 36.4024,
+                    "longitude": 94.9033
+                },
+                {
+                    "id": 1071,
+                    "name": "个旧市",
+                    "pinyin": "gejiu",
+                    "latitude": 23.35899,
+                    "longitude": 103.160042
+                },
+                {
+                    "id": 1380,
+                    "name": "根河市",
+                    "pinyin": "genhe",
+                    "latitude": 50.780454,
+                    "longitude": 121.532724
+                },
+                {
+                    "id": 1583,
+                    "name": "共青城市",
+                    "pinyin": "gongqingcheng",
+                    "latitude": 29.248399,
+                    "longitude": 115.79406
+                },
+                {
+                    "id": 417,
+                    "name": "巩义市",
+                    "pinyin": "gongyi",
+                    "latitude": 34.747978,
+                    "longitude": 113.022057
+                },
+                {
+                    "id": 804,
+                    "name": "公主岭市",
+                    "pinyin": "gongzhuling",
+                    "latitude": 43.504681,
+                    "longitude": 124.8228
+                },
+                {
+                    "id": 316,
+                    "name": "广安市",
+                    "pinyin": "guangan",
+                    "latitude": 30.455959,
+                    "longitude": 106.633217
+                },
+                {
+                    "id": 197,
+                    "name": "广汉市",
+                    "pinyin": "guanghan",
+                    "latitude": 30.97706,
+                    "longitude": 104.282494
+                },
+                {
+                    "id": 724,
+                    "name": "广水市",
+                    "pinyin": "guangshui",
+                    "latitude": 31.616859,
+                    "longitude": 113.825996
+                },
+                {
+                    "id": 262,
+                    "name": "广元市",
+                    "pinyin": "guangyuan",
+                    "latitude": 32.43549,
+                    "longitude": 105.843567
+                },
+                {
+                    "id": 4,
+                    "name": "广州市",
+                    "pinyin": "guangzhou",
+                    "latitude": 23.12908,
+                    "longitude": 113.264359
+                },
+                {
+                    "id": 431,
+                    "name": "贵港市",
+                    "pinyin": "guigang",
+                    "latitude": 23.11306,
+                    "longitude": 109.597641
+                },
+                {
+                    "id": 98,
+                    "name": "桂林市",
+                    "pinyin": "guilin",
+                    "latitude": 25.273609,
+                    "longitude": 110.290024
+                },
+                {
+                    "id": 568,
+                    "name": "桂平市",
+                    "pinyin": "guiping",
+                    "latitude": 23.3941,
+                    "longitude": 110.07901
+                },
+                {
+                    "id": 885,
+                    "name": "贵溪市",
+                    "pinyin": "guixi",
+                    "latitude": 28.292521,
+                    "longitude": 117.245247
+                },
+                {
+                    "id": 137,
+                    "name": "贵阳市",
+                    "pinyin": "guiyang",
+                    "latitude": 26.64702,
+                    "longitude": 106.630241
+                },
+                {
+                    "id": 1262,
+                    "name": "古交市",
+                    "pinyin": "gujiao",
+                    "latitude": 37.908534,
+                    "longitude": 112.174353
+                },
+                {
+                    "id": 2381,
+                    "name": "果洛藏族自治州",
+                    "pinyin": "guoluozangzuzizhizhou",
+                    "latitude": 34.468685,
+                    "longitude": 100.247076
+                },
+                {
+                    "id": 2410,
+                    "name": "固原市",
+                    "pinyin": "guyuan",
+                    "latitude": 36.004561,
+                    "longitude": 106.285241
+                }
+            ]
+        },
+        {
+            "idx": "H",
+            "cities": [
+                {
+                    "id": 10,
+                    "name": "哈尔滨市",
+                    "pinyin": "haerbin",
+                    "latitude": 45.802158,
+                    "longitude": 126.535797
+                },
+                {
+                    "id": 2365,
+                    "name": "海北藏族自治州",
+                    "pinyin": "haibeizangzuzizhizhou",
+                    "latitude": 36.959435,
+                    "longitude": 100.901059
+                },
+                {
+                    "id": 368,
+                    "name": "海城市",
+                    "pinyin": "haicheng",
+                    "latitude": 40.881451,
+                    "longitude": 122.684631
+                },
+                {
+                    "id": 2359,
+                    "name": "海东市",
+                    "pinyin": "haidong",
+                    "latitude": 36.502916,
+                    "longitude": 102.10327
+                },
+                {
+                    "id": 62,
+                    "name": "海口市",
+                    "pinyin": "haikou",
+                    "latitude": 20.04422,
+                    "longitude": 110.19989
+                },
+                {
+                    "id": 1500,
+                    "name": "海林市",
+                    "pinyin": "hailin",
+                    "latitude": 44.574149,
+                    "longitude": 129.387902
+                },
+                {
+                    "id": 1156,
+                    "name": "海伦市",
+                    "pinyin": "hailun",
+                    "latitude": 47.462101,
+                    "longitude": 126.973381
+                },
+                {
+                    "id": 837,
+                    "name": "海门市",
+                    "pinyin": "haimen",
+                    "latitude": 31.871651,
+                    "longitude": 121.181793
+                },
+                {
+                    "id": 2375,
+                    "name": "海南藏族自治州",
+                    "pinyin": "hainanzangzuzizhizhou",
+                    "latitude": 36.280353,
+                    "longitude": 100.619542
+                },
+                {
+                    "id": 1085,
+                    "name": "海宁市",
+                    "pinyin": "haining",
+                    "latitude": 30.50938,
+                    "longitude": 120.681023
+                },
+                {
+                    "id": 2395,
+                    "name": "海西蒙古族藏族自治州",
+                    "pinyin": "haiximengguzuzangzuzizhizhou",
+                    "latitude": 37.374663,
+                    "longitude": 97.370785
+                },
+                {
+                    "id": 975,
+                    "name": "海阳市",
+                    "pinyin": "haiyang",
+                    "latitude": 36.776451,
+                    "longitude": 121.158463
+                },
+                {
+                    "id": 2422,
+                    "name": "哈密市",
+                    "pinyin": "hami",
+                    "latitude": 42.833248,
+                    "longitude": 93.51316
+                },
+                {
+                    "id": 2236,
+                    "name": "韩城市",
+                    "pinyin": "hancheng",
+                    "latitude": 35.475238,
+                    "longitude": 110.452391
+                },
+                {
+                    "id": 711,
+                    "name": "汉川市",
+                    "pinyin": "hanchuan",
+                    "latitude": 30.661221,
+                    "longitude": 113.839073
+                },
+                {
+                    "id": 170,
+                    "name": "邯郸市",
+                    "pinyin": "handan",
+                    "latitude": 36.625561,
+                    "longitude": 114.539177
+                },
+                {
+                    "id": 1386,
+                    "name": "杭锦后旗",
+                    "pinyin": "hangjinhouqi",
+                    "latitude": 40.888797,
+                    "longitude": 107.147682
+                },
+                {
+                    "id": 1368,
+                    "name": "杭锦旗",
+                    "pinyin": "hangjinqi",
+                    "latitude": 39.831789,
+                    "longitude": 108.736324
+                },
+                {
+                    "id": 2,
+                    "name": "杭州市",
+                    "pinyin": "hangzhou",
+                    "latitude": 30.274151,
+                    "longitude": 120.155151
+                },
+                {
+                    "id": 259,
+                    "name": "汉中市",
+                    "pinyin": "hanzhong",
+                    "latitude": 33.067612,
+                    "longitude": 107.023773
+                },
+                {
+                    "id": 406,
+                    "name": "鹤壁市",
+                    "pinyin": "hebi",
+                    "latitude": 35.747002,
+                    "longitude": 114.297447
+                },
+                {
+                    "id": 1167,
+                    "name": "河池市",
+                    "pinyin": "hechi",
+                    "latitude": 24.695899,
+                    "longitude": 108.062105
+                },
+                {
+                    "id": 17,
+                    "name": "合肥市",
+                    "pinyin": "hefei",
+                    "latitude": 31.82057,
+                    "longitude": 117.229012
+                },
+                {
+                    "id": 697,
+                    "name": "鹤岗市",
+                    "pinyin": "hegang",
+                    "latitude": 47.349892,
+                    "longitude": 130.297852
+                },
+                {
+                    "id": 1149,
+                    "name": "黑河市",
+                    "pinyin": "heihe",
+                    "latitude": 50.245232,
+                    "longitude": 127.528519
+                },
+                {
+                    "id": 366,
+                    "name": "河间市",
+                    "pinyin": "hejian",
+                    "latitude": 38.44548,
+                    "longitude": 116.098999
+                },
+                {
+                    "id": 1006,
+                    "name": "河津市",
+                    "pinyin": "hejin",
+                    "latitude": 35.596432,
+                    "longitude": 110.711861
+                },
+                {
+                    "id": 1462,
+                    "name": "和龙市",
+                    "pinyin": "helong",
+                    "latitude": 42.547004,
+                    "longitude": 129.008748
+                },
+                {
+                    "id": 266,
+                    "name": "衡水市",
+                    "pinyin": "hengshui",
+                    "latitude": 37.738861,
+                    "longitude": 115.67054
+                },
+                {
+                    "id": 116,
+                    "name": "衡阳市",
+                    "pinyin": "hengyang",
+                    "latitude": 26.89324,
+                    "longitude": 112.571953
+                },
+                {
+                    "id": 550,
+                    "name": "鹤山市",
+                    "pinyin": "heshan",
+                    "latitude": 22.765301,
+                    "longitude": 112.964363
+                },
+                {
+                    "id": 1832,
+                    "name": "合山市",
+                    "pinyin": "heshan",
+                    "latitude": 23.81311,
+                    "longitude": 108.88858
+                },
+                {
+                    "id": 2472,
+                    "name": "和田市",
+                    "pinyin": "hetian",
+                    "latitude": 37.108944,
+                    "longitude": 79.927542
+                },
+                {
+                    "id": 2471,
+                    "name": "和田地区",
+                    "pinyin": "hetiandiqu",
+                    "latitude": 37.110687,
+                    "longitude": 79.92533
+                },
+                {
+                    "id": 365,
+                    "name": "河源市",
+                    "pinyin": "heyuan",
+                    "latitude": 23.74365,
+                    "longitude": 114.700653
+                },
+                {
+                    "id": 177,
+                    "name": "菏泽市",
+                    "pinyin": "heze",
+                    "latitude": 35.233631,
+                    "longitude": 115.481148
+                },
+                {
+                    "id": 252,
+                    "name": "贺州市",
+                    "pinyin": "hezhou",
+                    "latitude": 24.40346,
+                    "longitude": 111.566551
+                },
+                {
+                    "id": 2348,
+                    "name": "合作市",
+                    "pinyin": "hezuo",
+                    "latitude": 34.985973,
+                    "longitude": 102.91149
+                },
+                {
+                    "id": 2081,
+                    "name": "红河哈尼族彝族自治州",
+                    "pinyin": "honghehanizuyizuzizhizhou",
+                    "latitude": 23.366775,
+                    "longitude": 103.384182
+                },
+                {
+                    "id": 720,
+                    "name": "洪湖市",
+                    "pinyin": "honghu",
+                    "latitude": 29.82756,
+                    "longitude": 113.477753
+                },
+                {
+                    "id": 793,
+                    "name": "洪江市",
+                    "pinyin": "hongjiang",
+                    "latitude": 27.209249,
+                    "longitude": 109.836548
+                },
+                {
+                    "id": 1514,
+                    "name": "洪泽区",
+                    "pinyin": "hongze",
+                    "latitude": 33.294975,
+                    "longitude": 118.867875
+                },
+                {
+                    "id": 1330,
+                    "name": "侯马市",
+                    "pinyin": "houma",
+                    "latitude": 35.620302,
+                    "longitude": 111.371272
+                },
+                {
+                    "id": 816,
+                    "name": "桦甸市",
+                    "pinyin": "huadian",
+                    "latitude": 42.97208,
+                    "longitude": 126.746269
+                },
+                {
+                    "id": 114,
+                    "name": "淮安市",
+                    "pinyin": "huaian",
+                    "latitude": 33.610161,
+                    "longitude": 119.015953
+                },
+                {
+                    "id": 214,
+                    "name": "淮北市",
+                    "pinyin": "huaibei",
+                    "latitude": 33.67078,
+                    "longitude": 116.926224
+                },
+                {
+                    "id": 133,
+                    "name": "怀化市",
+                    "pinyin": "huaihua",
+                    "latitude": 27.56974,
+                    "longitude": 110.001602
+                },
+                {
+                    "id": 53,
+                    "name": "淮南市",
+                    "pinyin": "huainan",
+                    "latitude": 32.625488,
+                    "longitude": 116.999802
+                },
+                {
+                    "id": 217,
+                    "name": "黄冈市",
+                    "pinyin": "huanggang",
+                    "latitude": 30.45347,
+                    "longitude": 114.872383
+                },
+                {
+                    "id": 385,
+                    "name": "黄骅市",
+                    "pinyin": "huanghua",
+                    "latitude": 38.371391,
+                    "longitude": 117.330116
+                },
+                {
+                    "id": 2370,
+                    "name": "黄南藏族自治州",
+                    "pinyin": "huangnanzangzuzizhizhou",
+                    "latitude": 35.517744,
+                    "longitude": 102.019988
+                },
+                {
+                    "id": 199,
+                    "name": "黄山市",
+                    "pinyin": "huangshan",
+                    "latitude": 29.71517,
+                    "longitude": 118.338661
+                },
+                {
+                    "id": 152,
+                    "name": "黄石市",
+                    "pinyin": "huangshi",
+                    "latitude": 30.19953,
+                    "longitude": 115.038902
+                },
+                {
+                    "id": 2237,
+                    "name": "华阴市",
+                    "pinyin": "huayin",
+                    "latitude": 34.565359,
+                    "longitude": 110.08952
+                },
+                {
+                    "id": 1893,
+                    "name": "华蓥市",
+                    "pinyin": "huaying",
+                    "latitude": 30.380574,
+                    "longitude": 106.777882
+                },
+                {
+                    "id": 554,
+                    "name": "化州市",
+                    "pinyin": "huazhou",
+                    "latitude": 21.663971,
+                    "longitude": 110.639542
+                },
+                {
+                    "id": 92,
+                    "name": "呼和浩特市",
+                    "pinyin": "huhehaote",
+                    "latitude": 40.841492,
+                    "longitude": 111.751991
+                },
+                {
+                    "id": 57,
+                    "name": "惠州市",
+                    "pinyin": "huizhou",
+                    "latitude": 23.11075,
+                    "longitude": 114.416786
+                },
+                {
+                    "id": 1478,
+                    "name": "虎林市",
+                    "pinyin": "hulin",
+                    "latitude": 45.767985,
+                    "longitude": 132.973881
+                },
+                {
+                    "id": 218,
+                    "name": "葫芦岛市",
+                    "pinyin": "huludao",
+                    "latitude": 40.710999,
+                    "longitude": 120.83699
+                },
+                {
+                    "id": 398,
+                    "name": "呼伦贝尔市",
+                    "pinyin": "hulunbeier",
+                    "latitude": 49.211632,
+                    "longitude": 119.765839
+                },
+                {
+                    "id": 820,
+                    "name": "珲春市",
+                    "pinyin": "hunchun",
+                    "latitude": 42.862492,
+                    "longitude": 130.365768
+                },
+                {
+                    "id": 5893,
+                    "name": "霍尔果斯市",
+                    "pinyin": "huoerguosi",
+                    "latitude": 44.201669,
+                    "longitude": 80.420759
+                },
+                {
+                    "id": 1365,
+                    "name": "霍林郭勒市",
+                    "pinyin": "huolinguole",
+                    "latitude": 45.532361,
+                    "longitude": 119.657862
+                },
+                {
+                    "id": 1331,
+                    "name": "霍州市",
+                    "pinyin": "huozhou",
+                    "latitude": 36.57202,
+                    "longitude": 111.723103
+                },
+                {
+                    "id": 61,
+                    "name": "湖州市",
+                    "pinyin": "huzhou",
+                    "latitude": 30.893049,
+                    "longitude": 120.088051
+                }
+            ]
+        },
+        {
+            "idx": "J",
+            "cities": [
+                {
+                    "id": 88,
+                    "name": "佳木斯市",
+                    "pinyin": "jiamusi",
+                    "latitude": 46.80019,
+                    "longitude": 130.320602
+                },
+                {
+                    "id": 220,
+                    "name": "吉安市",
+                    "pinyin": "jian",
+                    "latitude": 27.113819,
+                    "longitude": 114.993759
+                },
+                {
+                    "id": 1451,
+                    "name": "集安市",
+                    "pinyin": "jian",
+                    "latitude": 41.126276,
+                    "longitude": 126.186204
+                },
+                {
+                    "id": 1111,
+                    "name": "建德市",
+                    "pinyin": "jiande",
+                    "latitude": 29.474751,
+                    "longitude": 119.281212
+                },
+                {
+                    "id": 130,
+                    "name": "江门市",
+                    "pinyin": "jiangmen",
+                    "latitude": 22.57865,
+                    "longitude": 113.081612
+                },
+                {
+                    "id": 1107,
+                    "name": "江山市",
+                    "pinyin": "jiangshan",
+                    "latitude": 28.737249,
+                    "longitude": 118.6269
+                },
+                {
+                    "id": 364,
+                    "name": "江阴市",
+                    "pinyin": "jiangyin",
+                    "latitude": 31.92005,
+                    "longitude": 120.2854
+                },
+                {
+                    "id": 319,
+                    "name": "江油市",
+                    "pinyin": "jiangyou",
+                    "latitude": 31.75691,
+                    "longitude": 104.724579
+                },
+                {
+                    "id": 509,
+                    "name": "建瓯市",
+                    "pinyin": "jianou",
+                    "latitude": 27.022659,
+                    "longitude": 118.304977
+                },
+                {
+                    "id": 434,
+                    "name": "简阳市",
+                    "pinyin": "jianyang",
+                    "latitude": 30.411329,
+                    "longitude": 104.547333
+                },
+                {
+                    "id": 814,
+                    "name": "蛟河市",
+                    "pinyin": "jiaohe",
+                    "latitude": 43.72393,
+                    "longitude": 127.344772
+                },
+                {
+                    "id": 940,
+                    "name": "胶州市",
+                    "pinyin": "jiaozhou",
+                    "latitude": 36.26445,
+                    "longitude": 120.033539
+                },
+                {
+                    "id": 144,
+                    "name": "焦作市",
+                    "pinyin": "jiaozuo",
+                    "latitude": 35.21563,
+                    "longitude": 113.242012
+                },
+                {
+                    "id": 55,
+                    "name": "嘉兴市",
+                    "pinyin": "jiaxing",
+                    "latitude": 30.74501,
+                    "longitude": 120.755501
+                },
+                {
+                    "id": 527,
+                    "name": "嘉峪关市",
+                    "pinyin": "jiayuguan",
+                    "latitude": 39.772011,
+                    "longitude": 98.290108
+                },
+                {
+                    "id": 487,
+                    "name": "界首市",
+                    "pinyin": "jieshou",
+                    "latitude": 33.257179,
+                    "longitude": 115.374512
+                },
+                {
+                    "id": 1000,
+                    "name": "介休市",
+                    "pinyin": "jiexiu",
+                    "latitude": 37.0271,
+                    "longitude": 111.916718
+                },
+                {
+                    "id": 231,
+                    "name": "揭阳市",
+                    "pinyin": "jieyang",
+                    "latitude": 23.549721,
+                    "longitude": 116.372711
+                },
+                {
+                    "id": 101,
+                    "name": "吉林市",
+                    "pinyin": "jilin",
+                    "latitude": 43.837841,
+                    "longitude": 126.549438
+                },
+                {
+                    "id": 19,
+                    "name": "济南市",
+                    "pinyin": "jinan",
+                    "latitude": 36.665291,
+                    "longitude": 116.994926
+                },
+                {
+                    "id": 528,
+                    "name": "金昌市",
+                    "pinyin": "jinchang",
+                    "latitude": 38.520061,
+                    "longitude": 102.187592
+                },
+                {
+                    "id": 437,
+                    "name": "晋城市",
+                    "pinyin": "jincheng",
+                    "latitude": 35.490391,
+                    "longitude": 112.851128
+                },
+                {
+                    "id": 49,
+                    "name": "景德镇市",
+                    "pinyin": "jingdezhen",
+                    "latitude": 29.26869,
+                    "longitude": 117.178391
+                },
+                {
+                    "id": 1601,
+                    "name": "井冈山市",
+                    "pinyin": "jinggangshan",
+                    "latitude": 26.570529,
+                    "longitude": 114.166111
+                },
+                {
+                    "id": 359,
+                    "name": "景洪市",
+                    "pinyin": "jinghong",
+                    "latitude": 22.00008,
+                    "longitude": 100.771629
+                },
+                {
+                    "id": 846,
+                    "name": "靖江市",
+                    "pinyin": "jingjiang",
+                    "latitude": 32.014938,
+                    "longitude": 120.274544
+                },
+                {
+                    "id": 151,
+                    "name": "荆门市",
+                    "pinyin": "jingmen",
+                    "latitude": 31.03546,
+                    "longitude": 112.199448
+                },
+                {
+                    "id": 1807,
+                    "name": "靖西市",
+                    "pinyin": "jingxi",
+                    "latitude": 23.134766,
+                    "longitude": 106.417549
+                },
+                {
+                    "id": 100,
+                    "name": "荆州市",
+                    "pinyin": "jingzhou",
+                    "latitude": 30.334789,
+                    "longitude": 112.240692
+                },
+                {
+                    "id": 67,
+                    "name": "金华市",
+                    "pinyin": "jinhua",
+                    "latitude": 29.078119,
+                    "longitude": 119.647591
+                },
+                {
+                    "id": 47,
+                    "name": "济宁市",
+                    "pinyin": "jining",
+                    "latitude": 35.414589,
+                    "longitude": 116.587242
+                },
+                {
+                    "id": 334,
+                    "name": "晋江市",
+                    "pinyin": "jinjiang",
+                    "latitude": 24.781441,
+                    "longitude": 118.551987
+                },
+                {
+                    "id": 800,
+                    "name": "津市市",
+                    "pinyin": "jinshi",
+                    "latitude": 29.605431,
+                    "longitude": 111.877411
+                },
+                {
+                    "id": 153,
+                    "name": "晋中市",
+                    "pinyin": "jinzhong",
+                    "latitude": 37.687019,
+                    "longitude": 112.752777
+                },
+                {
+                    "id": 110,
+                    "name": "锦州市",
+                    "pinyin": "jinzhou",
+                    "latitude": 41.09515,
+                    "longitude": 121.127029
+                },
+                {
+                    "id": 1155,
+                    "name": "晋州市",
+                    "pinyin": "jinzhou",
+                    "latitude": 38.033562,
+                    "longitude": 115.044098
+                },
+                {
+                    "id": 274,
+                    "name": "吉首市",
+                    "pinyin": "jishou",
+                    "latitude": 28.26244,
+                    "longitude": 109.698112
+                },
+                {
+                    "id": 66,
+                    "name": "九江市",
+                    "pinyin": "jiujiang",
+                    "latitude": 29.705481,
+                    "longitude": 116.001457
+                },
+                {
+                    "id": 526,
+                    "name": "酒泉市",
+                    "pinyin": "jiuquan",
+                    "latitude": 39.732552,
+                    "longitude": 98.493942
+                },
+                {
+                    "id": 221,
+                    "name": "鸡西市",
+                    "pinyin": "jixi",
+                    "latitude": 45.295238,
+                    "longitude": 130.969543
+                },
+                {
+                    "id": 415,
+                    "name": "济源市",
+                    "pinyin": "jiyuan",
+                    "latitude": 35.06707,
+                    "longitude": 112.60273
+                },
+                {
+                    "id": 1255,
+                    "name": "冀州区",
+                    "pinyin": "jizhou",
+                    "latitude": 37.542788,
+                    "longitude": 115.579173
+                },
+                {
+                    "id": 858,
+                    "name": "句容市",
+                    "pinyin": "jurong",
+                    "latitude": 31.94482,
+                    "longitude": 119.16864
+                }
+            ]
+        },
+        {
+            "idx": "K",
+            "cities": [
+                {
+                    "id": 183,
+                    "name": "开封市",
+                    "pinyin": "kaifeng",
+                    "latitude": 34.79726,
+                    "longitude": 114.307312
+                },
+                {
+                    "id": 140,
+                    "name": "凯里市",
+                    "pinyin": "kaili",
+                    "latitude": 26.56756,
+                    "longitude": 107.9804
+                },
+                {
+                    "id": 547,
+                    "name": "开平市",
+                    "pinyin": "kaiping",
+                    "latitude": 22.376381,
+                    "longitude": 112.698509
+                },
+                {
+                    "id": 903,
+                    "name": "开原市",
+                    "pinyin": "kaiyuan",
+                    "latitude": 42.546452,
+                    "longitude": 124.0382
+                },
+                {
+                    "id": 1070,
+                    "name": "开远市",
+                    "pinyin": "kaiyuan",
+                    "latitude": 23.71434,
+                    "longitude": 103.266762
+                },
+                {
+                    "id": 439,
+                    "name": "开州区",
+                    "pinyin": "kaizhou",
+                    "latitude": 31.16098,
+                    "longitude": 108.393112
+                },
+                {
+                    "id": 1356,
+                    "name": "喀喇沁旗",
+                    "pinyin": "kalaqinqi",
+                    "latitude": 41.92778,
+                    "longitude": 118.708572
+                },
+                {
+                    "id": 1920,
+                    "name": "康定市",
+                    "pinyin": "kangding",
+                    "latitude": 30.050738,
+                    "longitude": 101.964057
+                },
+                {
+                    "id": 1055,
+                    "name": "喀什市",
+                    "pinyin": "kashi",
+                    "latitude": 39.46772,
+                    "longitude": 75.993813
+                },
+                {
+                    "id": 2459,
+                    "name": "喀什地区",
+                    "pinyin": "kashidiqu",
+                    "latitude": 39.467664,
+                    "longitude": 75.989138
+                },
+                {
+                    "id": 1399,
+                    "name": "科尔沁右翼前旗",
+                    "pinyin": "keerqinyouyiqianqi",
+                    "latitude": 46.076497,
+                    "longitude": 121.957544
+                },
+                {
+                    "id": 1400,
+                    "name": "科尔沁右翼中旗",
+                    "pinyin": "keerqinyouyizhongqi",
+                    "latitude": 45.059645,
+                    "longitude": 121.472818
+                },
+                {
+                    "id": 1360,
+                    "name": "科尔沁左翼后旗",
+                    "pinyin": "keerqinzuoyihouqi",
+                    "latitude": 42.954564,
+                    "longitude": 122.355155
+                },
+                {
+                    "id": 1359,
+                    "name": "科尔沁左翼中旗",
+                    "pinyin": "keerqinzuoyizhongqi",
+                    "latitude": 44.127166,
+                    "longitude": 123.313873
+                },
+                {
+                    "id": 5896,
+                    "name": "可克达拉市",
+                    "pinyin": "kekedala",
+                    "latitude": 43.6832,
+                    "longitude": 80.63579
+                },
+                {
+                    "id": 1053,
+                    "name": "克拉玛依市",
+                    "pinyin": "kelamayi",
+                    "latitude": 45.57999,
+                    "longitude": 84.88927
+                },
+                {
+                    "id": 1627,
+                    "name": "垦利区",
+                    "pinyin": "kenli",
+                    "latitude": 37.588679,
+                    "longitude": 118.551314
+                },
+                {
+                    "id": 1354,
+                    "name": "克什克腾旗",
+                    "pinyin": "keshiketengqi",
+                    "latitude": 43.256233,
+                    "longitude": 117.542465
+                },
+                {
+                    "id": 2454,
+                    "name": "克孜勒苏柯尔克孜自治州",
+                    "pinyin": "kezilesukeerkezizizhizhou",
+                    "latitude": 39.7111,
+                    "longitude": 76.174806
+                },
+                {
+                    "id": 326,
+                    "name": "库尔勒市",
+                    "pinyin": "kuerle",
+                    "latitude": 41.726429,
+                    "longitude": 86.173691
+                },
+                {
+                    "id": 2481,
+                    "name": "奎屯市",
+                    "pinyin": "kuitun",
+                    "latitude": 44.423445,
+                    "longitude": 84.901602
+                },
+                {
+                    "id": 1362,
+                    "name": "库伦旗",
+                    "pinyin": "kulunqi",
+                    "latitude": 42.734692,
+                    "longitude": 121.774886
+                },
+                {
+                    "id": 23,
+                    "name": "昆明市",
+                    "pinyin": "kunming",
+                    "latitude": 24.87966,
+                    "longitude": 102.833221
+                },
+                {
+                    "id": 358,
+                    "name": "昆山市",
+                    "pinyin": "kunshan",
+                    "latitude": 31.38475,
+                    "longitude": 120.981812
+                },
+                {
+                    "id": 5897,
+                    "name": "昆玉市",
+                    "pinyin": "kunyu",
+                    "latitude": 37.207994,
+                    "longitude": 79.287372
+                }
+            ]
+        },
+        {
+            "idx": "L",
+            "cities": [
+                {
+                    "id": 1827,
+                    "name": "来宾市",
+                    "pinyin": "laibin",
+                    "latitude": 23.733766,
+                    "longitude": 109.229772
+                },
+                {
+                    "id": 391,
+                    "name": "莱芜市",
+                    "pinyin": "laiwu",
+                    "latitude": 36.213589,
+                    "longitude": 117.676666
+                },
+                {
+                    "id": 948,
+                    "name": "莱西市",
+                    "pinyin": "laixi",
+                    "latitude": 36.888081,
+                    "longitude": 120.517769
+                },
+                {
+                    "id": 952,
+                    "name": "莱阳市",
+                    "pinyin": "laiyang",
+                    "latitude": 36.978779,
+                    "longitude": 120.711807
+                },
+                {
+                    "id": 949,
+                    "name": "莱州市",
+                    "pinyin": "laizhou",
+                    "latitude": 37.177021,
+                    "longitude": 119.942169
+                },
+                {
+                    "id": 40,
+                    "name": "廊坊市",
+                    "pinyin": "langfang",
+                    "latitude": 39.53775,
+                    "longitude": 116.68376
+                },
+                {
+                    "id": 1035,
+                    "name": "阆中市",
+                    "pinyin": "langzhong",
+                    "latitude": 31.558371,
+                    "longitude": 106.00499
+                },
+                {
+                    "id": 1106,
+                    "name": "兰溪市",
+                    "pinyin": "lanxi",
+                    "latitude": 29.20838,
+                    "longitude": 119.46051
+                },
+                {
+                    "id": 41,
+                    "name": "兰州市",
+                    "pinyin": "lanzhou",
+                    "latitude": 36.06138,
+                    "longitude": 103.83417
+                },
+                {
+                    "id": 735,
+                    "name": "老河口市",
+                    "pinyin": "laohekou",
+                    "latitude": 32.386711,
+                    "longitude": 111.675072
+                },
+                {
+                    "id": 980,
+                    "name": "乐陵市",
+                    "pinyin": "laoling",
+                    "latitude": 37.72979,
+                    "longitude": 117.231712
+                },
+                {
+                    "id": 232,
+                    "name": "拉萨市",
+                    "pinyin": "lasa",
+                    "latitude": 29.64415,
+                    "longitude": 91.114502
+                },
+                {
+                    "id": 1739,
+                    "name": "乐昌市",
+                    "pinyin": "lechang",
+                    "latitude": 25.128445,
+                    "longitude": 113.352413
+                },
+                {
+                    "id": 752,
+                    "name": "耒阳市",
+                    "pinyin": "leiyang",
+                    "latitude": 26.42243,
+                    "longitude": 112.859879
+                },
+                {
+                    "id": 541,
+                    "name": "雷州市",
+                    "pinyin": "leizhou",
+                    "latitude": 20.91444,
+                    "longitude": 110.096512
+                },
+                {
+                    "id": 2401,
+                    "name": "冷湖行政委员会",
+                    "pinyin": "lenghuxingzhengweiyuanhui",
+                    "latitude": 38.735768,
+                    "longitude": 93.335268
+                },
+                {
+                    "id": 779,
+                    "name": "冷水江市",
+                    "pinyin": "lengshuijiang",
+                    "latitude": 27.68615,
+                    "longitude": 111.435249
+                },
+                {
+                    "id": 873,
+                    "name": "乐平市",
+                    "pinyin": "leping",
+                    "latitude": 28.961729,
+                    "longitude": 117.128998
+                },
+                {
+                    "id": 139,
+                    "name": "乐山市",
+                    "pinyin": "leshan",
+                    "latitude": 29.55221,
+                    "longitude": 103.765388
+                },
+                {
+                    "id": 1938,
+                    "name": "凉山彝族自治州",
+                    "pinyin": "liangshanyizuzizhizhou",
+                    "latitude": 27.886762,
+                    "longitude": 102.258746
+                },
+                {
+                    "id": 538,
+                    "name": "廉江市",
+                    "pinyin": "lianjiang",
+                    "latitude": 21.609619,
+                    "longitude": 110.286247
+                },
+                {
+                    "id": 769,
+                    "name": "涟源市",
+                    "pinyin": "lianyuan",
+                    "latitude": 27.692711,
+                    "longitude": 111.664459
+                },
+                {
+                    "id": 89,
+                    "name": "连云港市",
+                    "pinyin": "lianyungang",
+                    "latitude": 34.596691,
+                    "longitude": 119.222954
+                },
+                {
+                    "id": 1761,
+                    "name": "连州市",
+                    "pinyin": "lianzhou",
+                    "latitude": 24.783966,
+                    "longitude": 112.379271
+                },
+                {
+                    "id": 84,
+                    "name": "聊城市",
+                    "pinyin": "liaocheng",
+                    "latitude": 36.45702,
+                    "longitude": 115.985489
+                },
+                {
+                    "id": 222,
+                    "name": "辽阳市",
+                    "pinyin": "liaoyang",
+                    "latitude": 41.268089,
+                    "longitude": 123.237358
+                },
+                {
+                    "id": 227,
+                    "name": "辽源市",
+                    "pinyin": "liaoyuan",
+                    "latitude": 42.88805,
+                    "longitude": 125.143677
+                },
+                {
+                    "id": 734,
+                    "name": "利川市",
+                    "pinyin": "lichuan",
+                    "latitude": 30.29121,
+                    "longitude": 108.935951
+                },
+                {
+                    "id": 155,
+                    "name": "丽江市",
+                    "pinyin": "lijiang",
+                    "latitude": 26.85648,
+                    "longitude": 100.227097
+                },
+                {
+                    "id": 753,
+                    "name": "醴陵市",
+                    "pinyin": "liling",
+                    "latitude": 27.64617,
+                    "longitude": 113.497032
+                },
+                {
+                    "id": 2063,
+                    "name": "临沧市",
+                    "pinyin": "lincang",
+                    "latitude": 23.886567,
+                    "longitude": 100.08697
+                },
+                {
+                    "id": 168,
+                    "name": "临汾市",
+                    "pinyin": "linfen",
+                    "latitude": 36.088219,
+                    "longitude": 111.519623
+                },
+                {
+                    "id": 659,
+                    "name": "灵宝市",
+                    "pinyin": "lingbao",
+                    "latitude": 34.51685,
+                    "longitude": 110.894562
+                },
+                {
+                    "id": 1431,
+                    "name": "凌海市",
+                    "pinyin": "linghai",
+                    "latitude": 41.171738,
+                    "longitude": 121.364236
+                },
+                {
+                    "id": 2405,
+                    "name": "灵武市",
+                    "pinyin": "lingwu",
+                    "latitude": 38.094058,
+                    "longitude": 106.334701
+                },
+                {
+                    "id": 909,
+                    "name": "凌源市",
+                    "pinyin": "lingyuan",
+                    "latitude": 41.24548,
+                    "longitude": 119.401337
+                },
+                {
+                    "id": 1082,
+                    "name": "临海市",
+                    "pinyin": "linhai",
+                    "latitude": 28.8584,
+                    "longitude": 121.144951
+                },
+                {
+                    "id": 1454,
+                    "name": "临江市",
+                    "pinyin": "linjiang",
+                    "latitude": 41.810689,
+                    "longitude": 126.919296
+                },
+                {
+                    "id": 954,
+                    "name": "临清市",
+                    "pinyin": "linqing",
+                    "latitude": 36.838341,
+                    "longitude": 115.70504
+                },
+                {
+                    "id": 525,
+                    "name": "临夏市",
+                    "pinyin": "linxia",
+                    "latitude": 35.6045,
+                    "longitude": 103.243172
+                },
+                {
+                    "id": 2339,
+                    "name": "临夏回族自治州",
+                    "pinyin": "linxiahuizuzizhizhou",
+                    "latitude": 35.599446,
+                    "longitude": 103.212006
+                },
+                {
+                    "id": 782,
+                    "name": "临湘市",
+                    "pinyin": "linxiang",
+                    "latitude": 29.476839,
+                    "longitude": 113.450577
+                },
+                {
+                    "id": 60,
+                    "name": "临沂市",
+                    "pinyin": "linyi",
+                    "latitude": 35.104649,
+                    "longitude": 118.356461
+                },
+                {
+                    "id": 2196,
+                    "name": "林芝市",
+                    "pinyin": "linzhi",
+                    "latitude": 29.654693,
+                    "longitude": 94.362348
+                },
+                {
+                    "id": 639,
+                    "name": "林州市",
+                    "pinyin": "linzhou",
+                    "latitude": 36.08308,
+                    "longitude": 113.819077
+                },
+                {
+                    "id": 73,
+                    "name": "丽水市",
+                    "pinyin": "lishui",
+                    "latitude": 28.467199,
+                    "longitude": 119.922928
+                },
+                {
+                    "id": 85,
+                    "name": "六安市",
+                    "pinyin": "liuan",
+                    "latitude": 31.73488,
+                    "longitude": 116.523239
+                },
+                {
+                    "id": 441,
+                    "name": "六盘水市",
+                    "pinyin": "liupanshui",
+                    "latitude": 26.68469,
+                    "longitude": 104.746681
+                },
+                {
+                    "id": 750,
+                    "name": "浏阳市",
+                    "pinyin": "liuyang",
+                    "latitude": 28.16378,
+                    "longitude": 113.643173
+                },
+                {
+                    "id": 81,
+                    "name": "柳州市",
+                    "pinyin": "liuzhou",
+                    "latitude": 24.32543,
+                    "longitude": 109.41552
+                },
+                {
+                    "id": 852,
+                    "name": "溧阳市",
+                    "pinyin": "liyang",
+                    "latitude": 31.415859,
+                    "longitude": 119.484596
+                },
+                {
+                    "id": 1023,
+                    "name": "隆昌市",
+                    "pinyin": "longchang",
+                    "latitude": 29.339479,
+                    "longitude": 105.287727
+                },
+                {
+                    "id": 498,
+                    "name": "龙海市",
+                    "pinyin": "longhai",
+                    "latitude": 24.446581,
+                    "longitude": 117.81813
+                },
+                {
+                    "id": 1461,
+                    "name": "龙井市",
+                    "pinyin": "longjing",
+                    "latitude": 42.771029,
+                    "longitude": 129.425747
+                },
+                {
+                    "id": 944,
+                    "name": "龙口市",
+                    "pinyin": "longkou",
+                    "latitude": 37.643452,
+                    "longitude": 120.478722
+                },
+                {
+                    "id": 2330,
+                    "name": "陇南市",
+                    "pinyin": "longnan",
+                    "latitude": 33.388598,
+                    "longitude": 104.929379
+                },
+                {
+                    "id": 1117,
+                    "name": "龙泉市",
+                    "pinyin": "longquan",
+                    "latitude": 28.074341,
+                    "longitude": 119.141678
+                },
+                {
+                    "id": 181,
+                    "name": "龙岩市",
+                    "pinyin": "longyan",
+                    "latitude": 25.075041,
+                    "longitude": 117.01722
+                },
+                {
+                    "id": 143,
+                    "name": "娄底市",
+                    "pinyin": "loudi",
+                    "latitude": 27.697281,
+                    "longitude": 111.994583
+                },
+                {
+                    "id": 1282,
+                    "name": "潞城市",
+                    "pinyin": "lucheng",
+                    "latitude": 36.332233,
+                    "longitude": 113.223245
+                },
+                {
+                    "id": 532,
+                    "name": "陆丰市",
+                    "pinyin": "lufeng",
+                    "latitude": 22.94511,
+                    "longitude": 115.644623
+                },
+                {
+                    "id": 201,
+                    "name": "罗定市",
+                    "pinyin": "luoding",
+                    "latitude": 22.768299,
+                    "longitude": 111.570038
+                },
+                {
+                    "id": 400,
+                    "name": "漯河市",
+                    "pinyin": "luohe",
+                    "latitude": 33.58149,
+                    "longitude": 114.016808
+                },
+                {
+                    "id": 94,
+                    "name": "洛阳市",
+                    "pinyin": "luoyang",
+                    "latitude": 34.618118,
+                    "longitude": 112.453613
+                },
+                {
+                    "id": 1579,
+                    "name": "庐山市",
+                    "pinyin": "lushan",
+                    "latitude": 29.456169,
+                    "longitude": 116.043743
+                },
+                {
+                    "id": 2118,
+                    "name": "泸水市",
+                    "pinyin": "lushui",
+                    "latitude": 25.851142,
+                    "longitude": 98.854063
+                },
+                {
+                    "id": 106,
+                    "name": "泸州市",
+                    "pinyin": "luzhou",
+                    "latitude": 28.8717,
+                    "longitude": 105.442574
+                },
+                {
+                    "id": 281,
+                    "name": "吕梁市",
+                    "pinyin": "lvliang",
+                    "latitude": 37.519341,
+                    "longitude": 111.141647
+                }
+            ]
+        },
+        {
+            "idx": "M",
+            "cities": [
+                {
+                    "id": 90,
+                    "name": "马鞍山市",
+                    "pinyin": "maanshan",
+                    "latitude": 31.67067,
+                    "longitude": 118.506111
+                },
+                {
+                    "id": 719,
+                    "name": "麻城市",
+                    "pinyin": "macheng",
+                    "latitude": 31.17333,
+                    "longitude": 115.00869
+                },
+                {
+                    "id": 1914,
+                    "name": "马尔康市",
+                    "pinyin": "maerkang",
+                    "latitude": 31.899761,
+                    "longitude": 102.221187
+                },
+                {
+                    "id": 2113,
+                    "name": "芒市",
+                    "pinyin": "mangshi",
+                    "latitude": 24.436699,
+                    "longitude": 98.577608
+                },
+                {
+                    "id": 2402,
+                    "name": "茫崖行政委员会",
+                    "pinyin": "mangyaxingzhengweiyuanhui",
+                    "latitude": 38.256157,
+                    "longitude": 90.312755
+                },
+                {
+                    "id": 917,
+                    "name": "满洲里市",
+                    "pinyin": "manzhouli",
+                    "latitude": 49.59655,
+                    "longitude": 117.378357
+                },
+                {
+                    "id": 123,
+                    "name": "茂名市",
+                    "pinyin": "maoming",
+                    "latitude": 21.66329,
+                    "longitude": 110.925232
+                },
+                {
+                    "id": 807,
+                    "name": "梅河口市",
+                    "pinyin": "meihekou",
+                    "latitude": 42.538731,
+                    "longitude": 125.712097
+                },
+                {
+                    "id": 312,
+                    "name": "眉山市",
+                    "pinyin": "meishan",
+                    "latitude": 30.07563,
+                    "longitude": 103.848511
+                },
+                {
+                    "id": 56,
+                    "name": "梅州市",
+                    "pinyin": "meizhou",
+                    "latitude": 24.288441,
+                    "longitude": 116.122643
+                },
+                {
+                    "id": 377,
+                    "name": "蒙自市",
+                    "pinyin": "mengzi",
+                    "latitude": 23.396219,
+                    "longitude": 103.364807
+                },
+                {
+                    "id": 82,
+                    "name": "绵阳市",
+                    "pinyin": "mianyang",
+                    "latitude": 31.46751,
+                    "longitude": 104.679604
+                },
+                {
+                    "id": 325,
+                    "name": "绵竹市",
+                    "pinyin": "mianzhu",
+                    "latitude": 31.337761,
+                    "longitude": 104.220833
+                },
+                {
+                    "id": 1065,
+                    "name": "弥勒市",
+                    "pinyin": "mile",
+                    "latitude": 24.410509,
+                    "longitude": 103.41465
+                },
+                {
+                    "id": 756,
+                    "name": "汨罗市",
+                    "pinyin": "miluo",
+                    "latitude": 28.806419,
+                    "longitude": 113.067108
+                },
+                {
+                    "id": 486,
+                    "name": "明光市",
+                    "pinyin": "mingguang",
+                    "latitude": 32.776989,
+                    "longitude": 117.989441
+                },
+                {
+                    "id": 1479,
+                    "name": "密山市",
+                    "pinyin": "mishan",
+                    "latitude": 45.545701,
+                    "longitude": 131.87272
+                },
+                {
+                    "id": 1372,
+                    "name": "莫力达瓦达斡尔族自治旗",
+                    "pinyin": "molidawadawoerzuzizhiqi",
+                    "latitude": 48.478385,
+                    "longitude": 124.507401
+                },
+                {
+                    "id": 138,
+                    "name": "牡丹江市",
+                    "pinyin": "mudanjiang",
+                    "latitude": 44.552689,
+                    "longitude": 129.632446
+                },
+                {
+                    "id": 1502,
+                    "name": "穆棱市",
+                    "pinyin": "muleng",
+                    "latitude": 44.91967,
+                    "longitude": 130.527085
+                }
+            ]
+        },
+        {
+            "idx": "N",
+            "cities": [
+                {
+                    "id": 2164,
+                    "name": "乃东区",
+                    "pinyin": "naidong",
+                    "latitude": 29.236106,
+                    "longitude": 91.76525
+                },
+                {
+                    "id": 1363,
+                    "name": "奈曼旗",
+                    "pinyin": "naimanqi",
+                    "latitude": 42.84685,
+                    "longitude": 120.662543
+                },
+                {
+                    "id": 495,
+                    "name": "南安市",
+                    "pinyin": "nanan",
+                    "latitude": 24.9604,
+                    "longitude": 118.386269
+                },
+                {
+                    "id": 25,
+                    "name": "南昌市",
+                    "pinyin": "nanchang",
+                    "latitude": 28.68202,
+                    "longitude": 115.857941
+                },
+                {
+                    "id": 99,
+                    "name": "南充市",
+                    "pinyin": "nanchong",
+                    "latitude": 30.837311,
+                    "longitude": 106.110733
+                },
+                {
+                    "id": 616,
+                    "name": "南宫市",
+                    "pinyin": "nangong",
+                    "latitude": 37.357948,
+                    "longitude": 115.408661
+                },
+                {
+                    "id": 6,
+                    "name": "南京市",
+                    "pinyin": "nanjing",
+                    "latitude": 31.84178,
+                    "longitude": 118.504669
+                },
+                {
+                    "id": 45,
+                    "name": "南宁市",
+                    "pinyin": "nanning",
+                    "latitude": 22.81673,
+                    "longitude": 108.366898
+                },
+                {
+                    "id": 117,
+                    "name": "南平市",
+                    "pinyin": "nanping",
+                    "latitude": 27.33175,
+                    "longitude": 118.12043
+                },
+                {
+                    "id": 1841,
+                    "name": "南沙群岛",
+                    "pinyin": "nanshaqundao",
+                    "latitude": 7.752668,
+                    "longitude": 114.226028
+                },
+                {
+                    "id": 39,
+                    "name": "南通市",
+                    "pinyin": "nantong",
+                    "latitude": 31.97958,
+                    "longitude": 120.893707
+                },
+                {
+                    "id": 1740,
+                    "name": "南雄市",
+                    "pinyin": "nanxiong",
+                    "latitude": 25.115328,
+                    "longitude": 114.311231
+                },
+                {
+                    "id": 260,
+                    "name": "南阳市",
+                    "pinyin": "nanyang",
+                    "latitude": 32.99073,
+                    "longitude": 112.528511
+                },
+                {
+                    "id": 2176,
+                    "name": "那曲市",
+                    "pinyin": "naqu",
+                    "latitude": 31.47694,
+                    "longitude": 92.05808
+                },
+                {
+                    "id": 706,
+                    "name": "讷河市",
+                    "pinyin": "nehe",
+                    "latitude": 48.484192,
+                    "longitude": 124.883972
+                },
+                {
+                    "id": 104,
+                    "name": "内江市",
+                    "pinyin": "neijiang",
+                    "latitude": 29.580151,
+                    "longitude": 105.058441
+                },
+                {
+                    "id": 1501,
+                    "name": "宁安市",
+                    "pinyin": "ningan",
+                    "latitude": 44.346836,
+                    "longitude": 129.470019
+                },
+                {
+                    "id": 18,
+                    "name": "宁波市",
+                    "pinyin": "ningbo",
+                    "latitude": 29.873859,
+                    "longitude": 121.55027
+                },
+                {
+                    "id": 271,
+                    "name": "宁德市",
+                    "pinyin": "ningde",
+                    "latitude": 26.66571,
+                    "longitude": 119.548187
+                },
+                {
+                    "id": 480,
+                    "name": "宁国市",
+                    "pinyin": "ningguo",
+                    "latitude": 30.63364,
+                    "longitude": 118.98336
+                },
+                {
+                    "id": 2117,
+                    "name": "怒江傈僳族自治州",
+                    "pinyin": "nujianglisuzuzizhizhou",
+                    "latitude": 25.80574,
+                    "longitude": 98.85928
+                }
+            ]
+        },
+        {
+            "idx": "P",
+            "cities": [
+                {
+                    "id": 340,
+                    "name": "盘锦市",
+                    "pinyin": "panjin",
+                    "latitude": 41.119961,
+                    "longitude": 122.070778
+                },
+                {
+                    "id": 810,
+                    "name": "磐石市",
+                    "pinyin": "panshi",
+                    "latitude": 42.946621,
+                    "longitude": 126.060463
+                },
+                {
+                    "id": 578,
+                    "name": "盘州市",
+                    "pinyin": "panxian",
+                    "latitude": 25.70993,
+                    "longitude": 104.471581
+                },
+                {
+                    "id": 315,
+                    "name": "攀枝花市",
+                    "pinyin": "panzhihua",
+                    "latitude": 26.582279,
+                    "longitude": 101.718719
+                },
+                {
+                    "id": 1630,
+                    "name": "蓬莱市",
+                    "pinyin": "penglai",
+                    "latitude": 37.811168,
+                    "longitude": 120.762689
+                },
+                {
+                    "id": 1029,
+                    "name": "彭州市",
+                    "pinyin": "pengzhou",
+                    "latitude": 30.990179,
+                    "longitude": 103.958107
+                },
+                {
+                    "id": 269,
+                    "name": "平顶山市",
+                    "pinyin": "pingdingshan",
+                    "latitude": 33.76609,
+                    "longitude": 113.192413
+                },
+                {
+                    "id": 933,
+                    "name": "平度市",
+                    "pinyin": "pingdu",
+                    "latitude": 36.786701,
+                    "longitude": 119.959938
+                },
+                {
+                    "id": 1088,
+                    "name": "平湖市",
+                    "pinyin": "pinghu",
+                    "latitude": 30.67585,
+                    "longitude": 121.01606
+                },
+                {
+                    "id": 524,
+                    "name": "平凉市",
+                    "pinyin": "pingliang",
+                    "latitude": 35.54303,
+                    "longitude": 106.665298
+                },
+                {
+                    "id": 1232,
+                    "name": "平泉市",
+                    "pinyin": "pingquan",
+                    "latitude": 41.00561,
+                    "longitude": 118.690238
+                },
+                {
+                    "id": 150,
+                    "name": "萍乡市",
+                    "pinyin": "pingxiang",
+                    "latitude": 27.62289,
+                    "longitude": 113.854271
+                },
+                {
+                    "id": 1838,
+                    "name": "凭祥市",
+                    "pinyin": "pingxiang",
+                    "latitude": 22.108882,
+                    "longitude": 106.759038
+                },
+                {
+                    "id": 827,
+                    "name": "邳州市",
+                    "pinyin": "pizhou",
+                    "latitude": 34.335201,
+                    "longitude": 118.012459
+                },
+                {
+                    "id": 294,
+                    "name": "普洱市",
+                    "pinyin": "puer",
+                    "latitude": 22.825211,
+                    "longitude": 100.96624
+                },
+                {
+                    "id": 529,
+                    "name": "普宁市",
+                    "pinyin": "puning",
+                    "latitude": 23.297359,
+                    "longitude": 116.165688
+                },
+                {
+                    "id": 180,
+                    "name": "莆田市",
+                    "pinyin": "putian",
+                    "latitude": 25.454,
+                    "longitude": 119.007713
+                },
+                {
+                    "id": 374,
+                    "name": "濮阳市",
+                    "pinyin": "puyang",
+                    "latitude": 35.895161,
+                    "longitude": 115.498688
+                }
+            ]
+        },
+        {
+            "idx": "Q",
+            "cities": [
+                {
+                    "id": 378,
+                    "name": "迁安市",
+                    "pinyin": "qianan",
+                    "latitude": 39.99836,
+                    "longitude": 118.700729
+                },
+                {
+                    "id": 1176,
+                    "name": "黔东南苗族侗族自治州",
+                    "pinyin": "qiandongnanmiaozudongzuzizhizhou",
+                    "latitude": 26.583352,
+                    "longitude": 107.977488
+                },
+                {
+                    "id": 445,
+                    "name": "潜江市",
+                    "pinyin": "qianjiang",
+                    "latitude": 30.40147,
+                    "longitude": 112.8993
+                },
+                {
+                    "id": 1175,
+                    "name": "黔南布依族苗族自治州",
+                    "pinyin": "qiannanbuyizumiaozuzizhizhou",
+                    "latitude": 26.258219,
+                    "longitude": 107.517156
+                },
+                {
+                    "id": 1177,
+                    "name": "黔西南布依族苗族自治州",
+                    "pinyin": "qianxinanbuyizumiaozuzizhizhou",
+                    "latitude": 25.08812,
+                    "longitude": 104.897971
+                },
+                {
+                    "id": 836,
+                    "name": "启东市",
+                    "pinyin": "qidong",
+                    "latitude": 31.80805,
+                    "longitude": 121.657867
+                },
+                {
+                    "id": 28,
+                    "name": "青岛市",
+                    "pinyin": "qingdao",
+                    "latitude": 36.066231,
+                    "longitude": 120.382988
+                },
+                {
+                    "id": 2409,
+                    "name": "青铜峡市",
+                    "pinyin": "qingtongxia",
+                    "latitude": 38.021509,
+                    "longitude": 106.075395
+                },
+                {
+                    "id": 341,
+                    "name": "庆阳市",
+                    "pinyin": "qingyang",
+                    "latitude": 35.709782,
+                    "longitude": 107.642921
+                },
+                {
+                    "id": 371,
+                    "name": "清远市",
+                    "pinyin": "qingyuan",
+                    "latitude": 23.682011,
+                    "longitude": 113.056152
+                },
+                {
+                    "id": 1958,
+                    "name": "清镇市",
+                    "pinyin": "qingzhen",
+                    "latitude": 26.551289,
+                    "longitude": 106.470278
+                },
+                {
+                    "id": 943,
+                    "name": "青州市",
+                    "pinyin": "qingzhou",
+                    "latitude": 36.684559,
+                    "longitude": 118.47966
+                },
+                {
+                    "id": 63,
+                    "name": "秦皇岛市",
+                    "pinyin": "qinhuangdao",
+                    "latitude": 39.935452,
+                    "longitude": 119.59964
+                },
+                {
+                    "id": 666,
+                    "name": "沁阳市",
+                    "pinyin": "qinyang",
+                    "latitude": 35.087601,
+                    "longitude": 112.9506
+                },
+                {
+                    "id": 157,
+                    "name": "钦州市",
+                    "pinyin": "qinzhou",
+                    "latitude": 21.9797,
+                    "longitude": 108.654312
+                },
+                {
+                    "id": 278,
+                    "name": "琼海市",
+                    "pinyin": "qionghai",
+                    "latitude": 19.258381,
+                    "longitude": 110.47464
+                },
+                {
+                    "id": 1042,
+                    "name": "邛崃市",
+                    "pinyin": "qionglai",
+                    "latitude": 30.41032,
+                    "longitude": 103.464363
+                },
+                {
+                    "id": 91,
+                    "name": "齐齐哈尔市",
+                    "pinyin": "qiqihaer",
+                    "latitude": 47.354309,
+                    "longitude": 123.917961
+                },
+                {
+                    "id": 698,
+                    "name": "七台河市",
+                    "pinyin": "qitaihe",
+                    "latitude": 45.770649,
+                    "longitude": 131.003067
+                },
+                {
+                    "id": 989,
+                    "name": "栖霞市",
+                    "pinyin": "qixia",
+                    "latitude": 37.335049,
+                    "longitude": 120.84977
+                },
+                {
+                    "id": 102,
+                    "name": "泉州市",
+                    "pinyin": "quanzhou",
+                    "latitude": 24.87389,
+                    "longitude": 118.675873
+                },
+                {
+                    "id": 957,
+                    "name": "曲阜市",
+                    "pinyin": "qufu",
+                    "latitude": 35.580818,
+                    "longitude": 116.986481
+                },
+                {
+                    "id": 265,
+                    "name": "曲靖市",
+                    "pinyin": "qujing",
+                    "latitude": 25.490021,
+                    "longitude": 103.796249
+                },
+                {
+                    "id": 182,
+                    "name": "衢州市",
+                    "pinyin": "quzhou",
+                    "latitude": 28.935921,
+                    "longitude": 118.874191
+                }
+            ]
+        },
+        {
+            "idx": "R",
+            "cities": [
+                {
+                    "id": 577,
+                    "name": "仁怀市",
+                    "pinyin": "renhuai",
+                    "latitude": 27.792339,
+                    "longitude": 106.401558
+                },
+                {
+                    "id": 351,
+                    "name": "任丘市",
+                    "pinyin": "renqiu",
+                    "latitude": 38.711639,
+                    "longitude": 116.099541
+                },
+                {
+                    "id": 2133,
+                    "name": "日喀则市",
+                    "pinyin": "rikaze",
+                    "latitude": 29.261454,
+                    "longitude": 88.884348
+                },
+                {
+                    "id": 58,
+                    "name": "日照市",
+                    "pinyin": "rizhao",
+                    "latitude": 35.416458,
+                    "longitude": 119.527191
+                },
+                {
+                    "id": 953,
+                    "name": "荣成市",
+                    "pinyin": "rongcheng",
+                    "latitude": 37.16523,
+                    "longitude": 122.486282
+                },
+                {
+                    "id": 828,
+                    "name": "如皋市",
+                    "pinyin": "rugao",
+                    "latitude": 32.371601,
+                    "longitude": 120.573822
+                },
+                {
+                    "id": 1076,
+                    "name": "瑞安市",
+                    "pinyin": "ruian",
+                    "latitude": 27.778379,
+                    "longitude": 120.655182
+                },
+                {
+                    "id": 1171,
+                    "name": "瑞昌市",
+                    "pinyin": "ruichang",
+                    "latitude": 29.676599,
+                    "longitude": 115.669081
+                },
+                {
+                    "id": 880,
+                    "name": "瑞金市",
+                    "pinyin": "ruijin",
+                    "latitude": 25.88562,
+                    "longitude": 116.027092
+                },
+                {
+                    "id": 2112,
+                    "name": "瑞丽市",
+                    "pinyin": "ruili",
+                    "latitude": 24.010734,
+                    "longitude": 97.855883
+                },
+                {
+                    "id": 972,
+                    "name": "乳山市",
+                    "pinyin": "rushan",
+                    "latitude": 36.920212,
+                    "longitude": 121.540199
+                },
+                {
+                    "id": 629,
+                    "name": "汝州市",
+                    "pinyin": "ruzhou",
+                    "latitude": 34.167171,
+                    "longitude": 112.844368
+                }
+            ]
+        },
+        {
+            "idx": "S",
+            "cities": [
+                {
+                    "id": 347,
+                    "name": "三河市",
+                    "pinyin": "sanhe",
+                    "latitude": 39.98246,
+                    "longitude": 117.078217
+                },
+                {
+                    "id": 401,
+                    "name": "三门峡市",
+                    "pinyin": "sanmenxia",
+                    "latitude": 34.77261,
+                    "longitude": 111.200302
+                },
+                {
+                    "id": 270,
+                    "name": "三明市",
+                    "pinyin": "sanming",
+                    "latitude": 26.263849,
+                    "longitude": 117.639221
+                },
+                {
+                    "id": 1839,
+                    "name": "三沙市",
+                    "pinyin": "sansha",
+                    "latitude": 16.83272,
+                    "longitude": 112.33356
+                },
+                {
+                    "id": 165,
+                    "name": "三亚市",
+                    "pinyin": "sanya",
+                    "latitude": 18.25248,
+                    "longitude": 109.512093
+                },
+                {
+                    "id": 604,
+                    "name": "沙河市",
+                    "pinyin": "shahe",
+                    "latitude": 36.85516,
+                    "longitude": 114.503319
+                },
+                {
+                    "id": 1,
+                    "name": "上海市",
+                    "pinyin": "shanghai",
+                    "latitude": 31.23037,
+                    "longitude": 121.473701
+                },
+                {
+                    "id": 2277,
+                    "name": "商洛市",
+                    "pinyin": "shangluo",
+                    "latitude": 33.868319,
+                    "longitude": 109.939776
+                },
+                {
+                    "id": 253,
+                    "name": "商丘市",
+                    "pinyin": "shangqiu",
+                    "latitude": 34.414268,
+                    "longitude": 115.656349
+                },
+                {
+                    "id": 97,
+                    "name": "上饶市",
+                    "pinyin": "shangrao",
+                    "latitude": 28.45463,
+                    "longitude": 117.943573
+                },
+                {
+                    "id": 702,
+                    "name": "尚志市",
+                    "pinyin": "shangzhi",
+                    "latitude": 45.211021,
+                    "longitude": 127.960274
+                },
+                {
+                    "id": 2163,
+                    "name": "山南市",
+                    "pinyin": "shannan",
+                    "latitude": 29.236023,
+                    "longitude": 91.766529
+                },
+                {
+                    "id": 200,
+                    "name": "汕头市",
+                    "pinyin": "shantou",
+                    "latitude": 23.3535,
+                    "longitude": 116.682213
+                },
+                {
+                    "id": 544,
+                    "name": "汕尾市",
+                    "pinyin": "shanwei",
+                    "latitude": 22.78566,
+                    "longitude": 115.375137
+                },
+                {
+                    "id": 72,
+                    "name": "韶关市",
+                    "pinyin": "shaoguan",
+                    "latitude": 24.81039,
+                    "longitude": 113.597229
+                },
+                {
+                    "id": 1703,
+                    "name": "韶山市",
+                    "pinyin": "shaoshan",
+                    "latitude": 27.922682,
+                    "longitude": 112.52848
+                },
+                {
+                    "id": 513,
+                    "name": "邵武市",
+                    "pinyin": "shaowu",
+                    "latitude": 27.340361,
+                    "longitude": 117.492531
+                },
+                {
+                    "id": 69,
+                    "name": "绍兴市",
+                    "pinyin": "shaoxing",
+                    "latitude": 30.030331,
+                    "longitude": 120.5802
+                },
+                {
+                    "id": 173,
+                    "name": "邵阳市",
+                    "pinyin": "shaoyang",
+                    "latitude": 27.238899,
+                    "longitude": 111.467697
+                },
+                {
+                    "id": 1094,
+                    "name": "嵊州市",
+                    "pinyin": "shengzhou",
+                    "latitude": 29.58849,
+                    "longitude": 120.821701
+                },
+                {
+                    "id": 1009,
+                    "name": "神木市",
+                    "pinyin": "shenmu",
+                    "latitude": 38.842388,
+                    "longitude": 110.498962
+                },
+                {
+                    "id": 5584,
+                    "name": "神农架林区",
+                    "pinyin": "shennongjialinqu",
+                    "latitude": 31.33525,
+                    "longitude": 110.5723
+                },
+                {
+                    "id": 16,
+                    "name": "沈阳市",
+                    "pinyin": "shenyang",
+                    "latitude": 41.80563,
+                    "longitude": 123.432358
+                },
+                {
+                    "id": 11,
+                    "name": "深圳市",
+                    "pinyin": "shenzhen",
+                    "latitude": 22.54286,
+                    "longitude": 114.059563
+                },
+                {
+                    "id": 609,
+                    "name": "深州市",
+                    "pinyin": "shenzhou",
+                    "latitude": 38.000221,
+                    "longitude": 115.560013
+                },
+                {
+                    "id": 1048,
+                    "name": "什邡市",
+                    "pinyin": "shifang",
+                    "latitude": 31.127359,
+                    "longitude": 104.166939
+                },
+                {
+                    "id": 258,
+                    "name": "石河子市",
+                    "pinyin": "shihezi",
+                    "latitude": 44.30653,
+                    "longitude": 86.078934
+                },
+                {
+                    "id": 31,
+                    "name": "石家庄市",
+                    "pinyin": "shijiazhuang",
+                    "latitude": 38.042759,
+                    "longitude": 114.514297
+                },
+                {
+                    "id": 329,
+                    "name": "石狮市",
+                    "pinyin": "shishi",
+                    "latitude": 24.73172,
+                    "longitude": 118.648048
+                },
+                {
+                    "id": 733,
+                    "name": "石首市",
+                    "pinyin": "shishou",
+                    "latitude": 29.72085,
+                    "longitude": 112.425499
+                },
+                {
+                    "id": 196,
+                    "name": "十堰市",
+                    "pinyin": "shiyan",
+                    "latitude": 32.62918,
+                    "longitude": 110.79801
+                },
+                {
+                    "id": 921,
+                    "name": "石嘴山市",
+                    "pinyin": "shizuishan",
+                    "latitude": 38.9841,
+                    "longitude": 106.384178
+                },
+                {
+                    "id": 932,
+                    "name": "寿光市",
+                    "pinyin": "shouguang",
+                    "latitude": 36.855412,
+                    "longitude": 118.790977
+                },
+                {
+                    "id": 5895,
+                    "name": "双河市",
+                    "pinyin": "shuanghe",
+                    "latitude": 44.840524,
+                    "longitude": 82.353656
+                },
+                {
+                    "id": 819,
+                    "name": "双辽市",
+                    "pinyin": "shuangliao",
+                    "latitude": 43.518452,
+                    "longitude": 123.50296
+                },
+                {
+                    "id": 699,
+                    "name": "双鸭山市",
+                    "pinyin": "shuangyashan",
+                    "latitude": 46.64658,
+                    "longitude": 131.159103
+                },
+                {
+                    "id": 808,
+                    "name": "舒兰市",
+                    "pinyin": "shulan",
+                    "latitude": 44.405861,
+                    "longitude": 126.965317
+                },
+                {
+                    "id": 392,
+                    "name": "朔州市",
+                    "pinyin": "shuozhou",
+                    "latitude": 39.331589,
+                    "longitude": 112.431808
+                },
+                {
+                    "id": 542,
+                    "name": "四会市",
+                    "pinyin": "sihui",
+                    "latitude": 23.327431,
+                    "longitude": 112.734039
+                },
+                {
+                    "id": 171,
+                    "name": "四平市",
+                    "pinyin": "siping",
+                    "latitude": 43.166458,
+                    "longitude": 124.350357
+                },
+                {
+                    "id": 1395,
+                    "name": "四子王旗",
+                    "pinyin": "siziwangqi",
+                    "latitude": 41.528114,
+                    "longitude": 111.70123
+                },
+                {
+                    "id": 361,
+                    "name": "松原市",
+                    "pinyin": "songyuan",
+                    "latitude": 45.141102,
+                    "longitude": 124.82515
+                },
+                {
+                    "id": 721,
+                    "name": "松滋市",
+                    "pinyin": "songzi",
+                    "latitude": 30.1696,
+                    "longitude": 111.767433
+                },
+                {
+                    "id": 1499,
+                    "name": "绥芬河市",
+                    "pinyin": "suifenhe",
+                    "latitude": 44.396864,
+                    "longitude": 131.164856
+                },
+                {
+                    "id": 228,
+                    "name": "绥化市",
+                    "pinyin": "suihua",
+                    "latitude": 46.652458,
+                    "longitude": 126.969322
+                },
+                {
+                    "id": 291,
+                    "name": "遂宁市",
+                    "pinyin": "suining",
+                    "latitude": 30.53286,
+                    "longitude": 105.592728
+                },
+                {
+                    "id": 383,
+                    "name": "随州市",
+                    "pinyin": "suizhou",
+                    "latitude": 31.69013,
+                    "longitude": 113.382622
+                },
+                {
+                    "id": 1407,
+                    "name": "苏尼特右旗",
+                    "pinyin": "suniteyouqi",
+                    "latitude": 42.746662,
+                    "longitude": 112.65539
+                },
+                {
+                    "id": 1406,
+                    "name": "苏尼特左旗",
+                    "pinyin": "sunitezuoqi",
+                    "latitude": 43.854108,
+                    "longitude": 113.653412
+                },
+                {
+                    "id": 206,
+                    "name": "宿迁市",
+                    "pinyin": "suqian",
+                    "latitude": 33.961929,
+                    "longitude": 118.27549
+                },
+                {
+                    "id": 8,
+                    "name": "苏州市",
+                    "pinyin": "suzhou",
+                    "latitude": 31.29834,
+                    "longitude": 120.583191
+                },
+                {
+                    "id": 135,
+                    "name": "宿州市",
+                    "pinyin": "suzhou",
+                    "latitude": 33.646141,
+                    "longitude": 116.963913
+                }
+            ]
+        },
+        {
+            "idx": "T",
+            "cities": [
+                {
+                    "id": 2491,
+                    "name": "塔城市",
+                    "pinyin": "tacheng",
+                    "latitude": 46.746281,
+                    "longitude": 82.983988
+                },
+                {
+                    "id": 2490,
+                    "name": "塔城地区",
+                    "pinyin": "tachengdiqu",
+                    "latitude": 46.746301,
+                    "longitude": 82.985732
+                },
+                {
+                    "id": 74,
+                    "name": "泰安市",
+                    "pinyin": "taian",
+                    "latitude": 36.19994,
+                    "longitude": 117.088402
+                },
+                {
+                    "id": 5905,
+                    "name": "台北市",
+                    "pinyin": "taibei",
+                    "latitude": 25.030724,
+                    "longitude": 121.520076
+                },
+                {
+                    "id": 842,
+                    "name": "太仓市",
+                    "pinyin": "taicang",
+                    "latitude": 31.45911,
+                    "longitude": 121.129753
+                },
+                {
+                    "id": 1410,
+                    "name": "太仆寺旗",
+                    "pinyin": "taipusiqi",
+                    "latitude": 41.895199,
+                    "longitude": 115.28728
+                },
+                {
+                    "id": 539,
+                    "name": "台山市",
+                    "pinyin": "taishan",
+                    "latitude": 22.25156,
+                    "longitude": 112.7939
+                },
+                {
+                    "id": 113,
+                    "name": "泰兴市",
+                    "pinyin": "taixing",
+                    "latitude": 32.171909,
+                    "longitude": 120.052002
+                },
+                {
+                    "id": 43,
+                    "name": "太原市",
+                    "pinyin": "taiyuan",
+                    "latitude": 37.87059,
+                    "longitude": 112.550667
+                },
+                {
+                    "id": 52,
+                    "name": "台州市",
+                    "pinyin": "taizhou",
+                    "latitude": 28.656111,
+                    "longitude": 121.420563
+                },
+                {
+                    "id": 93,
+                    "name": "泰州市",
+                    "pinyin": "taizhou",
+                    "latitude": 32.45546,
+                    "longitude": 119.925537
+                },
+                {
+                    "id": 87,
+                    "name": "唐山市",
+                    "pinyin": "tangshan",
+                    "latitude": 39.630482,
+                    "longitude": 118.18058
+                },
+                {
+                    "id": 823,
+                    "name": "洮南市",
+                    "pinyin": "taonan",
+                    "latitude": 45.33559,
+                    "longitude": 122.786346
+                },
+                {
+                    "id": 1074,
+                    "name": "腾冲市",
+                    "pinyin": "tengchong",
+                    "latitude": 25.020531,
+                    "longitude": 98.490967
+                },
+                {
+                    "id": 923,
+                    "name": "滕州市",
+                    "pinyin": "tengzhou",
+                    "latitude": 35.11338,
+                    "longitude": 117.165962
+                },
+                {
+                    "id": 461,
+                    "name": "天长市",
+                    "pinyin": "tianchang",
+                    "latitude": 32.689449,
+                    "longitude": 119.003548
+                },
+                {
+                    "id": 5,
+                    "name": "天津市",
+                    "pinyin": "tianjin",
+                    "latitude": 39.085098,
+                    "longitude": 117.199371
+                },
+                {
+                    "id": 710,
+                    "name": "天门市",
+                    "pinyin": "tianmen",
+                    "latitude": 30.663389,
+                    "longitude": 113.166138
+                },
+                {
+                    "id": 298,
+                    "name": "天水市",
+                    "pinyin": "tianshui",
+                    "latitude": 34.580849,
+                    "longitude": 105.724861
+                },
+                {
+                    "id": 707,
+                    "name": "铁力市",
+                    "pinyin": "tieli",
+                    "latitude": 46.986641,
+                    "longitude": 128.032425
+                },
+                {
+                    "id": 382,
+                    "name": "铁岭市",
+                    "pinyin": "tieling",
+                    "latitude": 42.286201,
+                    "longitude": 123.842407
+                },
+                {
+                    "id": 5898,
+                    "name": "铁门关市",
+                    "pinyin": "tiemenguan",
+                    "latitude": 41.827251,
+                    "longitude": 85.501218
+                },
+                {
+                    "id": 474,
+                    "name": "桐城市",
+                    "pinyin": "tongcheng",
+                    "latitude": 31.035851,
+                    "longitude": 116.974159
+                },
+                {
+                    "id": 1008,
+                    "name": "铜川市",
+                    "pinyin": "tongchuan",
+                    "latitude": 34.896729,
+                    "longitude": 108.945152
+                },
+                {
+                    "id": 239,
+                    "name": "通化市",
+                    "pinyin": "tonghua",
+                    "latitude": 41.728291,
+                    "longitude": 125.939903
+                },
+                {
+                    "id": 1495,
+                    "name": "同江市",
+                    "pinyin": "tongjiang",
+                    "latitude": 47.651131,
+                    "longitude": 132.510119
+                },
+                {
+                    "id": 268,
+                    "name": "通辽市",
+                    "pinyin": "tongliao",
+                    "latitude": 43.65247,
+                    "longitude": 122.24469
+                },
+                {
+                    "id": 65,
+                    "name": "铜陵市",
+                    "pinyin": "tongling",
+                    "latitude": 30.908871,
+                    "longitude": 117.742203
+                },
+                {
+                    "id": 226,
+                    "name": "铜仁市",
+                    "pinyin": "tongren",
+                    "latitude": 27.69066,
+                    "longitude": 109.180992
+                },
+                {
+                    "id": 1084,
+                    "name": "桐乡市",
+                    "pinyin": "tongxiang",
+                    "latitude": 30.630739,
+                    "longitude": 120.564323
+                },
+                {
+                    "id": 2418,
+                    "name": "吐鲁番市",
+                    "pinyin": "tulufan",
+                    "latitude": 42.947613,
+                    "longitude": 89.184078
+                },
+                {
+                    "id": 1460,
+                    "name": "图们市",
+                    "pinyin": "tumen",
+                    "latitude": 42.966621,
+                    "longitude": 129.846701
+                },
+                {
+                    "id": 1164,
+                    "name": "土默特右旗",
+                    "pinyin": "tumoteyouqi",
+                    "latitude": 40.568829,
+                    "longitude": 110.524208
+                },
+                {
+                    "id": 1343,
+                    "name": "土默特左旗",
+                    "pinyin": "tumotezuoqi",
+                    "latitude": 40.720416,
+                    "longitude": 111.133615
+                },
+                {
+                    "id": 2507,
+                    "name": "图木舒克市",
+                    "pinyin": "tumushuke",
+                    "latitude": 39.867316,
+                    "longitude": 79.077978
+                }
+            ]
+        },
+        {
+            "idx": "W",
+            "cities": [
+                {
+                    "id": 375,
+                    "name": "瓦房店市",
+                    "pinyin": "wafangdian",
+                    "latitude": 39.626438,
+                    "longitude": 121.97995
+                },
+                {
+                    "id": 581,
+                    "name": "万宁市",
+                    "pinyin": "wanning",
+                    "latitude": 18.795321,
+                    "longitude": 110.389748
+                },
+                {
+                    "id": 1895,
+                    "name": "万源市",
+                    "pinyin": "wanyuan",
+                    "latitude": 32.06777,
+                    "longitude": 108.037548
+                },
+                {
+                    "id": 48,
+                    "name": "潍坊市",
+                    "pinyin": "weifang",
+                    "latitude": 36.70686,
+                    "longitude": 119.161758
+                },
+                {
+                    "id": 34,
+                    "name": "威海市",
+                    "pinyin": "weihai",
+                    "latitude": 37.513481,
+                    "longitude": 122.121712
+                },
+                {
+                    "id": 688,
+                    "name": "卫辉市",
+                    "pinyin": "weihui",
+                    "latitude": 35.398472,
+                    "longitude": 114.06459
+                },
+                {
+                    "id": 306,
+                    "name": "渭南市",
+                    "pinyin": "weinan",
+                    "latitude": 34.499969,
+                    "longitude": 109.510147
+                },
+                {
+                    "id": 282,
+                    "name": "文昌市",
+                    "pinyin": "wenchang",
+                    "latitude": 19.543289,
+                    "longitude": 110.797737
+                },
+                {
+                    "id": 1355,
+                    "name": "翁牛特旗",
+                    "pinyin": "wengniuteqi",
+                    "latitude": 42.937128,
+                    "longitude": 119.022619
+                },
+                {
+                    "id": 1077,
+                    "name": "温岭市",
+                    "pinyin": "wenling",
+                    "latitude": 28.371799,
+                    "longitude": 121.385986
+                },
+                {
+                    "id": 293,
+                    "name": "文山市",
+                    "pinyin": "wenshan",
+                    "latitude": 23.38678,
+                    "longitude": 104.233002
+                },
+                {
+                    "id": 2089,
+                    "name": "文山壮族苗族自治州",
+                    "pinyin": "wenshanzhuangzumiaozuzizhizhou",
+                    "latitude": 23.36951,
+                    "longitude": 104.24401
+                },
+                {
+                    "id": 30,
+                    "name": "温州市",
+                    "pinyin": "wenzhou",
+                    "latitude": 27.994921,
+                    "longitude": 120.699387
+                },
+                {
+                    "id": 363,
+                    "name": "武安市",
+                    "pinyin": "wuan",
+                    "latitude": 36.696709,
+                    "longitude": 114.203758
+                },
+                {
+                    "id": 701,
+                    "name": "五常市",
+                    "pinyin": "wuchang",
+                    "latitude": 44.931911,
+                    "longitude": 127.167458
+                },
+                {
+                    "id": 546,
+                    "name": "吴川市",
+                    "pinyin": "wuchuan",
+                    "latitude": 21.44182,
+                    "longitude": 110.778236
+                },
+                {
+                    "id": 1505,
+                    "name": "五大连池市",
+                    "pinyin": "wudalianchi",
+                    "latitude": 48.512688,
+                    "longitude": 126.197694
+                },
+                {
+                    "id": 788,
+                    "name": "武冈市",
+                    "pinyin": "wugang",
+                    "latitude": 26.726589,
+                    "longitude": 110.631378
+                },
+                {
+                    "id": 1647,
+                    "name": "舞钢市",
+                    "pinyin": "wugang",
+                    "latitude": 33.302082,
+                    "longitude": 113.52625
+                },
+                {
+                    "id": 393,
+                    "name": "乌海市",
+                    "pinyin": "wuhai",
+                    "latitude": 39.653839,
+                    "longitude": 106.795464
+                },
+                {
+                    "id": 7,
+                    "name": "武汉市",
+                    "pinyin": "wuhan",
+                    "latitude": 30.59276,
+                    "longitude": 114.305252
+                },
+                {
+                    "id": 38,
+                    "name": "芜湖市",
+                    "pinyin": "wuhu",
+                    "latitude": 31.352461,
+                    "longitude": 118.433128
+                },
+                {
+                    "id": 2508,
+                    "name": "五家渠市",
+                    "pinyin": "wujiaqu",
+                    "latitude": 44.167401,
+                    "longitude": 87.526884
+                },
+                {
+                    "id": 394,
+                    "name": "乌兰察布市",
+                    "pinyin": "wulanchabu",
+                    "latitude": 40.993912,
+                    "longitude": 113.133759
+                },
+                {
+                    "id": 916,
+                    "name": "乌兰浩特市",
+                    "pinyin": "wulanhaote",
+                    "latitude": 46.072819,
+                    "longitude": 122.093163
+                },
+                {
+                    "id": 1385,
+                    "name": "乌拉特后旗",
+                    "pinyin": "wulatehouqi",
+                    "latitude": 41.084307,
+                    "longitude": 107.074941
+                },
+                {
+                    "id": 1383,
+                    "name": "乌拉特前旗",
+                    "pinyin": "wulateqianqi",
+                    "latitude": 40.725209,
+                    "longitude": 108.656816
+                },
+                {
+                    "id": 1384,
+                    "name": "乌拉特中旗",
+                    "pinyin": "wulatezhongqi",
+                    "latitude": 41.57254,
+                    "longitude": 108.515255
+                },
+                {
+                    "id": 236,
+                    "name": "乌鲁木齐市",
+                    "pinyin": "wulumuqi",
+                    "latitude": 43.82663,
+                    "longitude": 87.616882
+                },
+                {
+                    "id": 1369,
+                    "name": "乌审旗",
+                    "pinyin": "wushenqi",
+                    "latitude": 38.603703,
+                    "longitude": 108.840927
+                },
+                {
+                    "id": 2492,
+                    "name": "乌苏市",
+                    "pinyin": "wusu",
+                    "latitude": 44.430115,
+                    "longitude": 84.677624
+                },
+                {
+                    "id": 523,
+                    "name": "武威市",
+                    "pinyin": "wuwei",
+                    "latitude": 37.9282,
+                    "longitude": 102.63797
+                },
+                {
+                    "id": 35,
+                    "name": "无锡市",
+                    "pinyin": "wuxi",
+                    "latitude": 31.49099,
+                    "longitude": 120.31237
+                },
+                {
+                    "id": 726,
+                    "name": "武穴市",
+                    "pinyin": "wuxue",
+                    "latitude": 29.84433,
+                    "longitude": 115.561302
+                },
+                {
+                    "id": 1564,
+                    "name": "武夷山市",
+                    "pinyin": "wuyishan",
+                    "latitude": 27.751733,
+                    "longitude": 118.032796
+                },
+                {
+                    "id": 1844,
+                    "name": "五指山市",
+                    "pinyin": "wuzhishan",
+                    "latitude": 18.776921,
+                    "longitude": 109.516662
+                },
+                {
+                    "id": 396,
+                    "name": "吴忠市",
+                    "pinyin": "wuzhong",
+                    "latitude": 37.997551,
+                    "longitude": 106.198792
+                },
+                {
+                    "id": 243,
+                    "name": "梧州市",
+                    "pinyin": "wuzhou",
+                    "latitude": 23.47703,
+                    "longitude": 111.279129
+                }
+            ]
+        },
+        {
+            "idx": "X",
+            "cities": [
+                {
+                    "id": 13,
+                    "name": "厦门市",
+                    "pinyin": "xiamen",
+                    "latitude": 24.479509,
+                    "longitude": 118.089478
+                },
+                {
+                    "id": 15,
+                    "name": "西安市",
+                    "pinyin": "xian",
+                    "latitude": 34.34127,
+                    "longitude": 108.939842
+                },
+                {
+                    "id": 627,
+                    "name": "项城市",
+                    "pinyin": "xiangcheng",
+                    "latitude": 33.467232,
+                    "longitude": 114.875618
+                },
+                {
+                    "id": 215,
+                    "name": "香港特别行政区",
+                    "pinyin": "xianggang",
+                    "latitude": 22.276283,
+                    "longitude": 114.163826
+                },
+                {
+                    "id": 2123,
+                    "name": "香格里拉市",
+                    "pinyin": "xianggelila",
+                    "latitude": 27.825804,
+                    "longitude": 99.708667
+                },
+                {
+                    "id": 1411,
+                    "name": "镶黄旗",
+                    "pinyin": "xianghuangqi",
+                    "latitude": 42.239229,
+                    "longitude": 113.843869
+                },
+                {
+                    "id": 42,
+                    "name": "湘潭市",
+                    "pinyin": "xiangtan",
+                    "latitude": 27.82975,
+                    "longitude": 112.944107
+                },
+                {
+                    "id": 780,
+                    "name": "湘乡市",
+                    "pinyin": "xiangxiang",
+                    "latitude": 27.7341,
+                    "longitude": 112.535042
+                },
+                {
+                    "id": 1728,
+                    "name": "湘西土家族苗族自治州",
+                    "pinyin": "xiangxitujiazumiaozuzizhizhou",
+                    "latitude": 28.314296,
+                    "longitude": 109.739735
+                },
+                {
+                    "id": 241,
+                    "name": "襄阳市",
+                    "pinyin": "xiangyang",
+                    "latitude": 32.008999,
+                    "longitude": 112.122551
+                },
+                {
+                    "id": 230,
+                    "name": "咸宁市",
+                    "pinyin": "xianning",
+                    "latitude": 29.841261,
+                    "longitude": 114.322449
+                },
+                {
+                    "id": 350,
+                    "name": "仙桃市",
+                    "pinyin": "xiantao",
+                    "latitude": 30.362511,
+                    "longitude": 113.454498
+                },
+                {
+                    "id": 115,
+                    "name": "咸阳市",
+                    "pinyin": "xianyang",
+                    "latitude": 34.329319,
+                    "longitude": 108.70929
+                },
+                {
+                    "id": 205,
+                    "name": "孝感市",
+                    "pinyin": "xiaogan",
+                    "latitude": 30.924829,
+                    "longitude": 113.916451
+                },
+                {
+                    "id": 997,
+                    "name": "孝义市",
+                    "pinyin": "xiaoyi",
+                    "latitude": 37.14534,
+                    "longitude": 111.77903
+                },
+                {
+                    "id": 296,
+                    "name": "西昌市",
+                    "pinyin": "xichang",
+                    "latitude": 27.894489,
+                    "longitude": 102.263046
+                },
+                {
+                    "id": 1403,
+                    "name": "锡林郭勒盟",
+                    "pinyin": "xilinguole",
+                    "latitude": 43.938849,
+                    "longitude": 116.085367
+                },
+                {
+                    "id": 920,
+                    "name": "锡林浩特市",
+                    "pinyin": "xilinhaote",
+                    "latitude": 43.933392,
+                    "longitude": 116.086082
+                },
+                {
+                    "id": 1377,
+                    "name": "新巴尔虎右旗",
+                    "pinyin": "xinbaerhuyouqi",
+                    "latitude": 48.669134,
+                    "longitude": 116.825991
+                },
+                {
+                    "id": 1376,
+                    "name": "新巴尔虎左旗",
+                    "pinyin": "xinbaerhuzuoqi",
+                    "latitude": 48.216571,
+                    "longitude": 118.267454
+                },
+                {
+                    "id": 1397,
+                    "name": "兴安盟",
+                    "pinyin": "xingan",
+                    "latitude": 46.076268,
+                    "longitude": 122.070317
+                },
+                {
+                    "id": 912,
+                    "name": "兴城市",
+                    "pinyin": "xingcheng",
+                    "latitude": 40.610191,
+                    "longitude": 120.756187
+                },
+                {
+                    "id": 829,
+                    "name": "兴化市",
+                    "pinyin": "xinghua",
+                    "latitude": 32.910412,
+                    "longitude": 119.852722
+                },
+                {
+                    "id": 543,
+                    "name": "兴宁市",
+                    "pinyin": "xingning",
+                    "latitude": 24.136499,
+                    "longitude": 115.731194
+                },
+                {
+                    "id": 2227,
+                    "name": "兴平市",
+                    "pinyin": "xingping",
+                    "latitude": 34.297134,
+                    "longitude": 108.488493
+                },
+                {
+                    "id": 179,
+                    "name": "邢台市",
+                    "pinyin": "xingtai",
+                    "latitude": 37.070549,
+                    "longitude": 114.504433
+                },
+                {
+                    "id": 644,
+                    "name": "荥阳市",
+                    "pinyin": "xingyang",
+                    "latitude": 34.787621,
+                    "longitude": 113.383492
+                },
+                {
+                    "id": 571,
+                    "name": "兴义市",
+                    "pinyin": "xingyi",
+                    "latitude": 25.091921,
+                    "longitude": 104.895531
+                },
+                {
+                    "id": 233,
+                    "name": "西宁市",
+                    "pinyin": "xining",
+                    "latitude": 36.61729,
+                    "longitude": 101.777817
+                },
+                {
+                    "id": 598,
+                    "name": "辛集市",
+                    "pinyin": "xinji",
+                    "latitude": 37.943161,
+                    "longitude": 115.217918
+                },
+                {
+                    "id": 614,
+                    "name": "新乐市",
+                    "pinyin": "xinle",
+                    "latitude": 38.34338,
+                    "longitude": 114.683838
+                },
+                {
+                    "id": 625,
+                    "name": "新密市",
+                    "pinyin": "xinmi",
+                    "latitude": 34.53952,
+                    "longitude": 113.390442
+                },
+                {
+                    "id": 907,
+                    "name": "新民市",
+                    "pinyin": "xinmin",
+                    "latitude": 41.997669,
+                    "longitude": 122.828003
+                },
+                {
+                    "id": 924,
+                    "name": "新泰市",
+                    "pinyin": "xintai",
+                    "latitude": 35.908779,
+                    "longitude": 117.767998
+                },
+                {
+                    "id": 76,
+                    "name": "新乡市",
+                    "pinyin": "xinxiang",
+                    "latitude": 35.30323,
+                    "longitude": 113.92675
+                },
+                {
+                    "id": 234,
+                    "name": "信阳市",
+                    "pinyin": "xinyang",
+                    "latitude": 32.147141,
+                    "longitude": 114.092789
+                },
+                {
+                    "id": 553,
+                    "name": "信宜市",
+                    "pinyin": "xinyi",
+                    "latitude": 22.35429,
+                    "longitude": 110.947098
+                },
+                {
+                    "id": 843,
+                    "name": "新沂市",
+                    "pinyin": "xinyi",
+                    "latitude": 34.36927,
+                    "longitude": 118.355476
+                },
+                {
+                    "id": 127,
+                    "name": "新余市",
+                    "pinyin": "xinyu",
+                    "latitude": 27.81776,
+                    "longitude": 114.91713
+                },
+                {
+                    "id": 628,
+                    "name": "新郑市",
+                    "pinyin": "xinzheng",
+                    "latitude": 34.396049,
+                    "longitude": 113.741608
+                },
+                {
+                    "id": 263,
+                    "name": "忻州市",
+                    "pinyin": "xinzhou",
+                    "latitude": 38.416698,
+                    "longitude": 112.734177
+                },
+                {
+                    "id": 1840,
+                    "name": "西沙群岛",
+                    "pinyin": "xishaqundao",
+                    "latitude": 19.193808,
+                    "longitude": 113.864571
+                },
+                {
+                    "id": 2097,
+                    "name": "西双版纳傣族自治州",
+                    "pinyin": "xishuangbannadaizuzizhizhou",
+                    "latitude": 22.001724,
+                    "longitude": 100.797941
+                },
+                {
+                    "id": 1409,
+                    "name": "西乌珠穆沁旗",
+                    "pinyin": "xiwuzhumuqinqi",
+                    "latitude": 44.586147,
+                    "longitude": 117.615249
+                },
+                {
+                    "id": 314,
+                    "name": "宣城市",
+                    "pinyin": "xuancheng",
+                    "latitude": 30.940781,
+                    "longitude": 118.758659
+                },
+                {
+                    "id": 1059,
+                    "name": "宣威市",
+                    "pinyin": "xuanwei",
+                    "latitude": 26.219891,
+                    "longitude": 104.104477
+                },
+                {
+                    "id": 198,
+                    "name": "许昌市",
+                    "pinyin": "xuchang",
+                    "latitude": 34.035702,
+                    "longitude": 113.852333
+                },
+                {
+                    "id": 29,
+                    "name": "徐州市",
+                    "pinyin": "xuzhou",
+                    "latitude": 34.204399,
+                    "longitude": 117.285767
+                }
+            ]
+        },
+        {
+            "idx": "Y",
+            "cities": [
+                {
+                    "id": 240,
+                    "name": "雅安市",
+                    "pinyin": "yaan",
+                    "latitude": 30.01543,
+                    "longitude": 103.039803
+                },
+                {
+                    "id": 915,
+                    "name": "牙克石市",
+                    "pinyin": "yakeshi",
+                    "latitude": 49.285629,
+                    "longitude": 120.711739
+                },
+                {
+                    "id": 242,
+                    "name": "延安市",
+                    "pinyin": "yanan",
+                    "latitude": 36.585289,
+                    "longitude": 109.489777
+                },
+                {
+                    "id": 167,
+                    "name": "延边朝鲜族自治州",
+                    "pinyin": "yanbian",
+                    "latitude": 42.89119,
+                    "longitude": 129.509094
+                },
+                {
+                    "id": 71,
+                    "name": "盐城市",
+                    "pinyin": "yancheng",
+                    "latitude": 33.34951,
+                    "longitude": 120.161636
+                },
+                {
+                    "id": 556,
+                    "name": "阳春市",
+                    "pinyin": "yangchun",
+                    "latitude": 22.1703,
+                    "longitude": 111.791527
+                },
+                {
+                    "id": 202,
+                    "name": "阳江市",
+                    "pinyin": "yangjiang",
+                    "latitude": 21.85829,
+                    "longitude": 111.982559
+                },
+                {
+                    "id": 995,
+                    "name": "阳泉市",
+                    "pinyin": "yangquan",
+                    "latitude": 37.856682,
+                    "longitude": 113.580467
+                },
+                {
+                    "id": 866,
+                    "name": "扬中市",
+                    "pinyin": "yangzhong",
+                    "latitude": 32.237019,
+                    "longitude": 119.796822
+                },
+                {
+                    "id": 22,
+                    "name": "扬州市",
+                    "pinyin": "yangzhou",
+                    "latitude": 32.393581,
+                    "longitude": 119.412689
+                },
+                {
+                    "id": 356,
+                    "name": "延吉市",
+                    "pinyin": "yanji",
+                    "latitude": 42.891071,
+                    "longitude": 129.509094
+                },
+                {
+                    "id": 640,
+                    "name": "偃师市",
+                    "pinyin": "yanshi",
+                    "latitude": 34.727631,
+                    "longitude": 112.78965
+                },
+                {
+                    "id": 77,
+                    "name": "烟台市",
+                    "pinyin": "yantai",
+                    "latitude": 37.463531,
+                    "longitude": 121.448013
+                },
+                {
+                    "id": 103,
+                    "name": "宜宾市",
+                    "pinyin": "yibin",
+                    "latitude": 28.751301,
+                    "longitude": 104.641701
+                },
+                {
+                    "id": 80,
+                    "name": "宜昌市",
+                    "pinyin": "yichang",
+                    "latitude": 30.69186,
+                    "longitude": 111.286423
+                },
+                {
+                    "id": 736,
+                    "name": "宜城市",
+                    "pinyin": "yicheng",
+                    "latitude": 31.719761,
+                    "longitude": 112.257759
+                },
+                {
+                    "id": 128,
+                    "name": "宜春市",
+                    "pinyin": "yichun",
+                    "latitude": 27.81443,
+                    "longitude": 114.416122
+                },
+                {
+                    "id": 696,
+                    "name": "伊春市",
+                    "pinyin": "yichun",
+                    "latitude": 47.72752,
+                    "longitude": 128.840485
+                },
+                {
+                    "id": 745,
+                    "name": "宜都市",
+                    "pinyin": "yidu",
+                    "latitude": 30.37846,
+                    "longitude": 111.450104
+                },
+                {
+                    "id": 1370,
+                    "name": "伊金霍洛旗",
+                    "pinyin": "yijinhuoluoqi",
+                    "latitude": 39.604312,
+                    "longitude": 109.787402
+                },
+                {
+                    "id": 2480,
+                    "name": "伊犁哈萨克自治州",
+                    "pinyin": "yilihasakezizhizhou",
+                    "latitude": 43.92186,
+                    "longitude": 81.317946
+                },
+                {
+                    "id": 1666,
+                    "name": "义马市",
+                    "pinyin": "yima",
+                    "latitude": 34.746868,
+                    "longitude": 111.869417
+                },
+                {
+                    "id": 194,
+                    "name": "银川市",
+                    "pinyin": "yinchuan",
+                    "latitude": 38.486439,
+                    "longitude": 106.232483
+                },
+                {
+                    "id": 722,
+                    "name": "应城市",
+                    "pinyin": "yingcheng",
+                    "latitude": 30.928379,
+                    "longitude": 113.572922
+                },
+                {
+                    "id": 548,
+                    "name": "英德市",
+                    "pinyin": "yingde",
+                    "latitude": 24.18572,
+                    "longitude": 113.415047
+                },
+                {
+                    "id": 339,
+                    "name": "营口市",
+                    "pinyin": "yingkou",
+                    "latitude": 40.666828,
+                    "longitude": 122.234901
+                },
+                {
+                    "id": 384,
+                    "name": "鹰潭市",
+                    "pinyin": "yingtan",
+                    "latitude": 28.260189,
+                    "longitude": 117.069191
+                },
+                {
+                    "id": 335,
+                    "name": "伊宁市",
+                    "pinyin": "yining",
+                    "latitude": 43.9095,
+                    "longitude": 81.277252
+                },
+                {
+                    "id": 191,
+                    "name": "义乌市",
+                    "pinyin": "yiwu",
+                    "latitude": 29.30558,
+                    "longitude": 120.074677
+                },
+                {
+                    "id": 354,
+                    "name": "宜兴市",
+                    "pinyin": "yixin",
+                    "latitude": 31.34042,
+                    "longitude": 119.823463
+                },
+                {
+                    "id": 119,
+                    "name": "益阳市",
+                    "pinyin": "yiyang",
+                    "latitude": 28.553909,
+                    "longitude": 112.355164
+                },
+                {
+                    "id": 862,
+                    "name": "仪征市",
+                    "pinyin": "yizheng",
+                    "latitude": 32.27203,
+                    "longitude": 119.184441
+                },
+                {
+                    "id": 507,
+                    "name": "永安市",
+                    "pinyin": "yongan",
+                    "latitude": 25.94138,
+                    "longitude": 117.365181
+                },
+                {
+                    "id": 623,
+                    "name": "永城市",
+                    "pinyin": "yongcheng",
+                    "latitude": 33.92915,
+                    "longitude": 116.449463
+                },
+                {
+                    "id": 1004,
+                    "name": "永济市",
+                    "pinyin": "yongji",
+                    "latitude": 34.867161,
+                    "longitude": 110.447731
+                },
+                {
+                    "id": 1092,
+                    "name": "永康市",
+                    "pinyin": "yongkang",
+                    "latitude": 28.88851,
+                    "longitude": 120.04731
+                },
+                {
+                    "id": 176,
+                    "name": "永州市",
+                    "pinyin": "yongzhou",
+                    "latitude": 26.42034,
+                    "longitude": 111.612251
+                },
+                {
+                    "id": 768,
+                    "name": "沅江市",
+                    "pinyin": "yuanjiang",
+                    "latitude": 28.844021,
+                    "longitude": 112.354683
+                },
+                {
+                    "id": 1002,
+                    "name": "原平市",
+                    "pinyin": "yuanping",
+                    "latitude": 38.730511,
+                    "longitude": 112.710922
+                },
+                {
+                    "id": 992,
+                    "name": "禹城市",
+                    "pinyin": "yucheng",
+                    "latitude": 36.933941,
+                    "longitude": 116.63813
+                },
+                {
+                    "id": 1078,
+                    "name": "乐清市",
+                    "pinyin": "yueqing",
+                    "latitude": 28.11289,
+                    "longitude": 120.983383
+                },
+                {
+                    "id": 124,
+                    "name": "岳阳市",
+                    "pinyin": "yueyang",
+                    "latitude": 29.357281,
+                    "longitude": 113.129189
+                },
+                {
+                    "id": 1091,
+                    "name": "玉环市",
+                    "pinyin": "yuhuan",
+                    "latitude": 28.135889,
+                    "longitude": 121.231644
+                },
+                {
+                    "id": 254,
+                    "name": "玉林市",
+                    "pinyin": "yulin",
+                    "latitude": 22.65451,
+                    "longitude": 110.180977
+                },
+                {
+                    "id": 307,
+                    "name": "榆林市",
+                    "pinyin": "yulin",
+                    "latitude": 38.285198,
+                    "longitude": 109.734581
+                },
+                {
+                    "id": 2314,
+                    "name": "玉门市",
+                    "pinyin": "yumen",
+                    "latitude": 40.28682,
+                    "longitude": 97.037206
+                },
+                {
+                    "id": 166,
+                    "name": "运城市",
+                    "pinyin": "yuncheng",
+                    "latitude": 35.026279,
+                    "longitude": 111.006989
+                },
+                {
+                    "id": 421,
+                    "name": "云浮市",
+                    "pinyin": "yunfu",
+                    "latitude": 22.915251,
+                    "longitude": 112.044533
+                },
+                {
+                    "id": 805,
+                    "name": "榆树市",
+                    "pinyin": "yushu",
+                    "latitude": 44.83989,
+                    "longitude": 126.532997
+                },
+                {
+                    "id": 2389,
+                    "name": "玉树市",
+                    "pinyin": "yushu",
+                    "latitude": 33.004049,
+                    "longitude": 97.008522
+                },
+                {
+                    "id": 2388,
+                    "name": "玉树藏族自治州",
+                    "pinyin": "yushuzangzuzizhizhou",
+                    "latitude": 33.004049,
+                    "longitude": 97.008522
+                },
+                {
+                    "id": 292,
+                    "name": "玉溪市",
+                    "pinyin": "yuxi",
+                    "latitude": 24.351931,
+                    "longitude": 102.5466
+                },
+                {
+                    "id": 1079,
+                    "name": "余姚市",
+                    "pinyin": "yuyao",
+                    "latitude": 30.037109,
+                    "longitude": 121.15435
+                },
+                {
+                    "id": 624,
+                    "name": "禹州市",
+                    "pinyin": "yuzhou",
+                    "latitude": 34.14048,
+                    "longitude": 113.487938
+                }
+            ]
+        },
+        {
+            "idx": "Z",
+            "cities": [
+                {
+                    "id": 713,
+                    "name": "枣阳市",
+                    "pinyin": "zaoyang",
+                    "latitude": 32.128361,
+                    "longitude": 112.773979
+                },
+                {
+                    "id": 54,
+                    "name": "枣庄市",
+                    "pinyin": "zaozhuang",
+                    "latitude": 34.810711,
+                    "longitude": 117.32196
+                },
+                {
+                    "id": 1401,
+                    "name": "扎赉特旗",
+                    "pinyin": "zhalaiteqi",
+                    "latitude": 46.725136,
+                    "longitude": 122.909332
+                },
+                {
+                    "id": 1378,
+                    "name": "扎兰屯市",
+                    "pinyin": "zhalantun",
+                    "latitude": 48.007412,
+                    "longitude": 122.744401
+                },
+                {
+                    "id": 1364,
+                    "name": "扎鲁特旗",
+                    "pinyin": "zhaluteqi",
+                    "latitude": 44.555294,
+                    "longitude": 120.905275
+                },
+                {
+                    "id": 357,
+                    "name": "张家港市",
+                    "pinyin": "zhangjiagang",
+                    "latitude": 31.875469,
+                    "longitude": 120.555496
+                },
+                {
+                    "id": 280,
+                    "name": "张家界市",
+                    "pinyin": "zhangjiajie",
+                    "latitude": 29.116671,
+                    "longitude": 110.478394
+                },
+                {
+                    "id": 154,
+                    "name": "张家口市",
+                    "pinyin": "zhangjiakou",
+                    "latitude": 40.82444,
+                    "longitude": 114.88755
+                },
+                {
+                    "id": 1568,
+                    "name": "漳平市",
+                    "pinyin": "zhangping",
+                    "latitude": 25.291597,
+                    "longitude": 117.42073
+                },
+                {
+                    "id": 893,
+                    "name": "樟树市",
+                    "pinyin": "zhangshu",
+                    "latitude": 28.055889,
+                    "longitude": 115.54615
+                },
+                {
+                    "id": 342,
+                    "name": "张掖市",
+                    "pinyin": "zhangye",
+                    "latitude": 38.925919,
+                    "longitude": 100.449806
+                },
+                {
+                    "id": 111,
+                    "name": "漳州市",
+                    "pinyin": "zhangzhou",
+                    "latitude": 24.51347,
+                    "longitude": 117.647247
+                },
+                {
+                    "id": 79,
+                    "name": "湛江市",
+                    "pinyin": "zhanjiang",
+                    "latitude": 21.271339,
+                    "longitude": 110.35894
+                },
+                {
+                    "id": 700,
+                    "name": "肇东市",
+                    "pinyin": "zhaodong",
+                    "latitude": 46.051208,
+                    "longitude": 125.962502
+                },
+                {
+                    "id": 64,
+                    "name": "肇庆市",
+                    "pinyin": "zhaoqing",
+                    "latitude": 23.0469,
+                    "longitude": 112.465279
+                },
+                {
+                    "id": 295,
+                    "name": "昭通市",
+                    "pinyin": "zhaotong",
+                    "latitude": 27.338169,
+                    "longitude": 103.716797
+                },
+                {
+                    "id": 965,
+                    "name": "招远市",
+                    "pinyin": "zhaoyuan",
+                    "latitude": 37.355309,
+                    "longitude": 120.434212
+                },
+                {
+                    "id": 1413,
+                    "name": "正蓝旗",
+                    "pinyin": "zhenglanqi",
+                    "latitude": 42.245895,
+                    "longitude": 116.003311
+                },
+                {
+                    "id": 1412,
+                    "name": "正镶白旗",
+                    "pinyin": "zhengxiangbaiqi",
+                    "latitude": 42.307152,
+                    "longitude": 115.005942
+                },
+                {
+                    "id": 32,
+                    "name": "郑州市",
+                    "pinyin": "zhengzhou",
+                    "latitude": 34.74725,
+                    "longitude": 113.624931
+                },
+                {
+                    "id": 27,
+                    "name": "镇江市",
+                    "pinyin": "zhenjiang",
+                    "latitude": 32.18959,
+                    "longitude": 119.425003
+                },
+                {
+                    "id": 731,
+                    "name": "枝江市",
+                    "pinyin": "zhijiang",
+                    "latitude": 30.425831,
+                    "longitude": 111.760437
+                },
+                {
+                    "id": 203,
+                    "name": "中山市",
+                    "pinyin": "zhongshan",
+                    "latitude": 22.515949,
+                    "longitude": 113.392601
+                },
+                {
+                    "id": 1842,
+                    "name": "中沙群岛的岛礁及其海域",
+                    "pinyin": "zhongshaqundaodedaojiaojiqihaiyu",
+                    "latitude": 15.112856,
+                    "longitude": 117.740071
+                },
+                {
+                    "id": 1144,
+                    "name": "中卫市",
+                    "pinyin": "zhongwei",
+                    "latitude": 37.500259,
+                    "longitude": 105.196762
+                },
+                {
+                    "id": 715,
+                    "name": "钟祥市",
+                    "pinyin": "zhongxiang",
+                    "latitude": 31.167971,
+                    "longitude": 112.588173
+                },
+                {
+                    "id": 204,
+                    "name": "周口市",
+                    "pinyin": "zhoukou",
+                    "latitude": 33.625832,
+                    "longitude": 114.696953
+                },
+                {
+                    "id": 299,
+                    "name": "舟山市",
+                    "pinyin": "zhoushan",
+                    "latitude": 29.98539,
+                    "longitude": 122.207779
+                },
+                {
+                    "id": 899,
+                    "name": "庄河市",
+                    "pinyin": "zhuanghe",
+                    "latitude": 39.68037,
+                    "longitude": 122.96611
+                },
+                {
+                    "id": 925,
+                    "name": "诸城市",
+                    "pinyin": "zhucheng",
+                    "latitude": 35.995831,
+                    "longitude": 119.409828
+                },
+                {
+                    "id": 26,
+                    "name": "珠海市",
+                    "pinyin": "zhuhai",
+                    "latitude": 22.270729,
+                    "longitude": 113.576683
+                },
+                {
+                    "id": 1081,
+                    "name": "诸暨市",
+                    "pinyin": "zhuji",
+                    "latitude": 29.71364,
+                    "longitude": 120.23632
+                },
+                {
+                    "id": 399,
+                    "name": "驻马店市",
+                    "pinyin": "zhumadian",
+                    "latitude": 33.011421,
+                    "longitude": 114.022987
+                },
+                {
+                    "id": 918,
+                    "name": "准格尔旗",
+                    "pinyin": "zhungeerqi",
+                    "latitude": 39.864262,
+                    "longitude": 111.239868
+                },
+                {
+                    "id": 370,
+                    "name": "涿州市",
+                    "pinyin": "zhuozhou",
+                    "latitude": 39.485291,
+                    "longitude": 115.974388
+                },
+                {
+                    "id": 126,
+                    "name": "株洲市",
+                    "pinyin": "zhuzhou",
+                    "latitude": 27.827669,
+                    "longitude": 113.133957
+                },
+                {
+                    "id": 50,
+                    "name": "淄博市",
+                    "pinyin": "zibo",
+                    "latitude": 36.813099,
+                    "longitude": 118.054802
+                },
+                {
+                    "id": 105,
+                    "name": "自贡市",
+                    "pinyin": "zigong",
+                    "latitude": 29.339199,
+                    "longitude": 104.778442
+                },
+                {
+                    "id": 785,
+                    "name": "资兴市",
+                    "pinyin": "zixing",
+                    "latitude": 25.976191,
+                    "longitude": 113.236008
+                },
+                {
+                    "id": 323,
+                    "name": "资阳市",
+                    "pinyin": "ziyang",
+                    "latitude": 30.12859,
+                    "longitude": 104.627983
+                },
+                {
+                    "id": 927,
+                    "name": "邹城市",
+                    "pinyin": "zoucheng",
+                    "latitude": 35.40522,
+                    "longitude": 117.003853
+                },
+                {
+                    "id": 380,
+                    "name": "遵化市",
+                    "pinyin": "zunhua",
+                    "latitude": 40.18924,
+                    "longitude": 117.965668
+                },
+                {
+                    "id": 379,
+                    "name": "遵义市",
+                    "pinyin": "zunyi",
+                    "latitude": 27.72545,
+                    "longitude": 106.92723
+                }
+            ]
+        }
+    ]
+}
