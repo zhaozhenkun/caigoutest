@@ -23,7 +23,7 @@ import DownLoadAPP from '@/page/downLoadApp'
 import viewpointMove from '@/page/viewpointMove'
 import Study from '@/page/study'
 import StudyContent from '@/page/studyContent'
-import StudySearch from '@/page/StudySearch'
+import StudySearch from '@/page/studySearch'
 
 Vue.use(Router)
 
